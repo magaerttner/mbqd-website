@@ -12,8 +12,9 @@ authors:
 - S. Whitlock
 - G. Zürn
 - M. Weidemüller
-tags: ['Rydberg', 'Quantum Simulation', 'Far From Equilibrium']
+tags: ['disorder', 'Rydberg', 'Quantum Simulation', 'Far From Equilibrium']
 categories: []
+projects: ['disorder']
 date: '2021-01-01'
 lastmod: 2021-01-22T10:35:15+01:00
 featured: false
