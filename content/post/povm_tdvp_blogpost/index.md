@@ -1,5 +1,5 @@
 ---
-title: Time-dependent variational principle for open quantum systems with artificial neural networks
+title: Time-dependent variational principle for open quantum systems with artificial neural networks [Blogpost]
 date: 2021-06-03
 authors:
 - reh
