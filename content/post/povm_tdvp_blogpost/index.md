@@ -1,3 +1,8 @@
+---
+title: Time-dependent variational principle for open quantum systems with artificial neural networks
+date: 2021-06-03
+---
+
 ## Time-dependent variational principle for open quantum systems with artificial neural networks
 
 #### Descriptions of Open Quantum Systems (OQS)
@@ -46,18 +51,26 @@ Importantly, for the right distance measures, such as the KL-divergence or the H
 
 The above discussion is summarized in the figure below.
 
-![The denstiy matrix and POVM-formalism in contrast to the variational approach based on the neural network whose paramters are dynamically adapted according to the TDVP.](Fig1.png)
+<!-- ![The denstiy matrix and POVM-formalism in contrast to the variational approach based on the neural network whose paramters are dynamically adapted according to the TDVP.](Fig1.png) -->
+<p align="center">
+<img src="Fig1.png" width="800">
+</p>
+
 *Fig. 1: The denstiy matrix and POVM-formalism in contrast to the variational approach based on the neural network whose paramters are dynamically adapted according to the TDVP.*
 
 #### Dissipative quantum dynamics with the TDVP
 To benchmark our system we looked at two toy model systems in 1D and 2D respectively. Both models are anisotropic Heisenberg models with different anisotropies, whose Hamiltonian is given by
 
-$$H = \sum_{\langle ij \rangle} J_x X_i X_j + J_y Y_i Y_j + J_z Z_i Z_j) + \sum_i h_z Z_i $$
+$$H = \sum_{\langle ij \rangle} (J_x X_i X_j + J_y Y_i Y_j + J_z Z_i Z_j) + \sum_i h_z Z_i $$
 
 where $\langle ij \rangle$ is the summation over nearest neighbours. In both cases the considered dissipation channel is a single-particle decay to spin down, i.e. $L=\sigma^-$.
 The obtained results are shown in Fig. 2. Benchmark data is obtained with Exact Dynamics (ED) in the 1D case for a smaller system while we use the Monte Carlo Wave Function (MCWF) for the 4x4 lattice.
 
-![Fig. 2: (_a_) and (_b_): Mean magnetizations and next-nearest neighbour connected correlation functions in the anisotropic 1D Heisenberg model for $N=40$. (_c_) and (_d_): Mean $z$-magnetizations and nearest neighbour connected correlation functions in a $4\times 4$ anisotropic 2D Heisenberg lattice.](Fig2.png)
+<!-- ![Fig. 2: (_a_) and (_b_): Mean magnetizations and next-nearest neighbour connected correlation functions in the anisotropic 1D Heisenberg model for $N=40$. (_c_) and (_d_): Mean $z$-magnetizations and nearest neighbour connected correlation functions in a $4\times 4$ anisotropic 2D Heisenberg lattice.](Fig2.png) -->
+<p align="center">
+<img src="Fig2.png" width="1400">
+</p>
+
 *Fig. 2: (_a_) and (_b_): Mean magnetizations and next-nearest neighbour connected correlation functions in the anisotropic 1D Heisenberg model for $N=40$. (_c_) and (_d_): Mean $z$-magnetizations and nearest neighbour connected correlation functions in a $4\times 4$ anisotropic 2D Heisenberg lattice. Exact couplings and additional details can be found in the paper.*
 
 Let us now turn to a physically motivated example: The dissipative dynamics of a confinement model. Confinement in many-body-dynamics refers to the finite length over which correlations between spins spread out if there exists an associated energy penalty for the alignment in a specific direction. Such a system is for example given by the Transverse Field Ising Model (TFIM) with additional longitudinal field
@@ -67,5 +80,9 @@ $$\hat H = \sum_{\langle ij\rangle}  J_z \hat Z_i \hat Z_j + \sum_i \left( h_z \
 
 The larger $h_z$ in the model, the more restricted the spreading becomes. If one now additionally considers the effects of dissipation, two different mechanism hinder the spreading of correlations, namely the dissipation and the energy penalty $h_z$. The complex resulting dynamics is shown in Fig. 3.
 
-![Fig. 3: (_a_) and (_b_): Mean magnetizations and suppressed spreading of correlations in a 32 spin chain with periodic boundary conditions that is subject to the above Hamiltonian and dephasing with rate $\gamma/J = 0.25$.](Fig3.png)
-*Fig. 3: (_a_) and (_b_): Mean magnetizations and suppressed spreading of correlations in a 32 spin chain with periodic boundary conditions that is subject to the above Hamiltonian and dephasing with rate $\gamma/J = 0.25$.*
+<!-- ![Fig. 3: (_a_) and (_b_): Mean magnetizations and suppressed spreading of correlations in a 32 spin chain with periodic boundary conditions that is subject to the above Hamiltonian and dephasing with rate $\gamma/J = 0.25$.](Fig3.png) -->
+<p align="center">
+<img src="Fig3.png" width="1400">
+</p>
+
+*Fig. 3: (_a_) and (_b_): Mean magnetizations and suppressed spreading of correlations in a 32 spin chain with periodic boundary conditions that is subject to the above Hamiltonian and dephasing with rate $\gamma/J = 0.25$. The MCWF-benchmark data is obtained for a chain of 16 spins.*
