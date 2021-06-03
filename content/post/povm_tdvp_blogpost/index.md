@@ -1,6 +1,12 @@
 ---
 title: Time-dependent variational principle for open quantum systems with artificial neural networks
 date: 2021-06-03
+authors:
+- reh
+- M. Schmitt
+- gaerttner
+projects:
+- quantum-ann
 ---
 
 ## Time-dependent variational principle for open quantum systems with artificial neural networks
@@ -86,3 +92,6 @@ The larger $h_z$ in the model, the more restricted the spreading becomes. If one
 </p>
 
 *Fig. 3: (_a_) and (_b_): Mean magnetizations and suppressed spreading of correlations in a 32 spin chain with periodic boundary conditions that is subject to the above Hamiltonian and dephasing with rate $\gamma/J = 0.25$. The MCWF-benchmark data is obtained for a chain of 16 spins.*
+
+
+Further reading: https://arxiv.org/pdf/2104.00013
