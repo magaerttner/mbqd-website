@@ -55,6 +55,7 @@ The above discussion is summarized in the figure below.
 <p align="center">
 <img src="Fig1.png">
 </p>
+
 *Fig. 1: The denstiy matrix and POVM-formalism in contrast to the variational approach based on the neural network whose paramters are dynamically adapted according to the TDVP.*
 
 #### Dissipative quantum dynamics with the TDVP
@@ -69,6 +70,7 @@ The obtained results are shown in Fig. 2. Benchmark data is obtained with Exact 
 <p align="center">
 <img src="Fig2.png">
 </p>
+
 *Fig. 2: (_a_) and (_b_): Mean magnetizations and next-nearest neighbour connected correlation functions in the anisotropic 1D Heisenberg model for $N=40$. (_c_) and (_d_): Mean $z$-magnetizations and nearest neighbour connected correlation functions in a $4\times 4$ anisotropic 2D Heisenberg lattice. Exact couplings and additional details can be found in the paper.*
 
 Let us now turn to a physically motivated example: The dissipative dynamics of a confinement model. Confinement in many-body-dynamics refers to the finite length over which correlations between spins spread out if there exists an associated energy penalty for the alignment in a specific direction. Such a system is for example given by the Transverse Field Ising Model (TFIM) with additional longitudinal field
@@ -82,4 +84,5 @@ The larger $h_z$ in the model, the more restricted the spreading becomes. If one
 <p align="center">
 <img src="Fig3.png">
 </p>
+
 *Fig. 3: (_a_) and (_b_): Mean magnetizations and suppressed spreading of correlations in a 32 spin chain with periodic boundary conditions that is subject to the above Hamiltonian and dephasing with rate $\gamma/J = 0.25$. The MCWF-benchmark data is obtained for a chain of 16 spins.*
