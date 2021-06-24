@@ -2,19 +2,24 @@
 title: Entropic entanglement now on the arXiv!
 subtitle: Our latest work has appeared on the arXiv. We derive a new set of
   entanglement criteria in phase space that uses the Husimi distribution.
-date: 2021-06-24T18:01:28.484Z
-draft: false
-featured: false
+date: 2021-06-24
+authors:
+- stockdale
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: "Example phase space distributions in the twisted coordinates. These are some of the example states we
 consider in our work."
+projects:
+- entanglement
+tags: ['entropy', 'entanglement']
+
 ---
 
-Our new paper, *[Entropic entanglement criteria in phase space](https://arxiv.org/abs/2106.08788)*, has recently appeared
-on the arXiv!
+
+Our new paper, *[Entropic entanglement criteria in phase space](https://arxiv.org/abs/2106.08788)*, has recently appeared on the 
+arXiv!
 
 It is well known that entanglement is incredibly hard not just to measure, but also to witness. In our new paper, we develop a new method to witness entanglement that relies on measuring the entropy.
 
