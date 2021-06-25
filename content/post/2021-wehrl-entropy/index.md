@@ -14,7 +14,11 @@ consider in our work."
 projects:
 - entanglement
 tags: ['entropy', 'entanglement']
-
+links:
+  - icon_pack: fas
+    icon: arrow-circle-right
+    name: Publication
+    url: /publication/floerchinger-2021/
 ---
 
 
