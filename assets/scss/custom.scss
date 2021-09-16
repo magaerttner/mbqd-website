@@ -175,6 +175,13 @@
 }
 
 
+.onesentence-section {
+  margin: 20px 0px
+}
+.onesentence-section p {
+  margin: 0px
+}
+
 /* Make the project boxes all the same height, independent of actual content to look nicer */
 /*@media screen and (min-width: 768px) {
   div.project-card{

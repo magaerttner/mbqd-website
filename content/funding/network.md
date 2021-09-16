@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 design:
-  columns: 2
+  columns: 1
 
 title: Networks and Funding
 subtitle:
@@ -35,7 +35,7 @@ We are funded by the Baden-Württemberg foundation within the competence network
   </div>
 </div>
 
-We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau in an exploratory project on "Emergent phases of matter in driven disordered spin systems"
+We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau in an exploratory project on "Emergent phases of matter in driven disordered spin systems".
 <div class="img-row">
   <div class="img-column3">
     <a href="https://www.structures.uni-heidelberg.de/">
