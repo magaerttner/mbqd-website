@@ -21,7 +21,7 @@ subtitle:
       <img src="/logos/isoquant.jpg" alt="SFB 1225 ISOQUANT">
     </a>
   </div>
-  <p>We are funded by the DFG within the Collaborative Research Center ISQOQUANT (SFB1225). Within this network we study entanglement in quantum fields (Project A06) and the dynamics of disordered quantum systems (Project A05) in collaboration with experimental and theoretical groups.</p>
+  <p style="float: right; width: 70%; padding: 40px 0px">We are funded by the DFG within the Collaborative Research Center ISQOQUANT (SFB1225). Within this network we study entanglement in quantum fields (Project A06) and the dynamics of disordered quantum systems (Project A05) in collaboration with experimental and theoretical groups.</p>
 </div>
   
 We are funded by the Baden-Württemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.

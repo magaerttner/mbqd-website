@@ -9,7 +9,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true
-weight = 5  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "test title"
 
