@@ -49,6 +49,6 @@ subtitle:
       <img src="/logos/synqs.png" alt="SynQS group">
     </a>
   </div>
-  <span style="float: right; width: 70%; padding: 20px 0px">We collaborate closely with other experimental and theoretical groups within the Synthetic Quantum Systems (SynQS) collaboration.</span>
+  <span style="float: right; width: 70%; padding: 40px 0px">We collaborate closely with other experimental and theoretical groups within the Synthetic Quantum Systems (SynQS) collaboration.</span>
 </div>
 
