@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 design:
-  columns: 1
+  columns: "1"
 
 title: Networks and Funding
 subtitle:
