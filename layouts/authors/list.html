@@ -19,8 +19,7 @@
       {{ partial $widget $params }}
     {{end}}
 
-    {{/* uncomment annoying "Latest" section
-    {{ $query := where .Pages ".IsNode" false }}
+    {{ $query := sort (where .Pages ".IsNode" false) "Date" | first 5 }}
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
@@ -35,19 +34,7 @@
     </div>
     {{ end }}
   </div> 
-  */}}
   
-  {{ $related := site.RegularPages.Related . | first 5 }}
-  {{ with $related }}
-  <div class="article-widget content-widget-hr">
-    <h3>{{ i18n "related" }}</h3>
-    <ul>
-      {{ range . }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ul>
-  </div>
-  {{ end }}
 </section>
 
 {{- end -}}
