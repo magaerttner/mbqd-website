@@ -30,7 +30,7 @@ subtitle:
       <img src="/logos/bw_stiftung.png" alt="Baden-Württemberg foundation">
     </a>
   </div>
-  <span style="float: right; width: 70%; padding: 40px 0px">We are funded by the Baden-Württemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.</span
+  <span style="float: right; width: 70%; padding: 40px 0px">We are funded by the Baden-Württemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.</span>
 </div>
 
 
