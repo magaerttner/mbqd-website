@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 10
 
 design:
   columns: 2
@@ -35,6 +35,15 @@ We are funded by the Baden-Württemberg foundation within the competence network
   </div>
 </div>
 
+We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau in an exploratory project on "Emergent phases of matter in driven disordered spin systems"
+<div class="img-row">
+  <div class="img-column3">
+    <a href="https://www.structures.uni-heidelberg.de/">
+      <img src="/logos/structures1.png" alt="Cluster of Excellence STRUCTURES">
+    </a>
+  </div>
+</div>
+
 We collaborate closely with other experimental and theoretical groups within the Synthetic Quantum Systems (SynQS) collaboration.
 <div class="img-row">
   <div class="img-column3">
@@ -44,11 +53,3 @@ We collaborate closely with other experimental and theoretical groups within the
   </div>
 </div>
 
-Our group is part of the Cluster of Excellence STRUCTURES.
-<div class="img-row">
-  <div class="img-column3">
-    <a href="https://www.structures.uni-heidelberg.de/">
-      <img src="/logos/structures1.png" alt="Cluster of Excellence STRUCTURES">
-    </a>
-  </div>
-</div>

@@ -85,7 +85,7 @@ show_related = {post = true, project = false, publication = true, talk = false}
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "marting@kip.uni-heidelberg.de"
-phone = "+49 6221 54 5185"
+phone = "+49 6221 54 9852"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )

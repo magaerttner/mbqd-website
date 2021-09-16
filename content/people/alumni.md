@@ -15,6 +15,10 @@ design:
 title: Former members
 subtitle:
 ---
+ - Moritz Epping (Bachelor 2021), now master student in Heidelberg
+ - Peter Kaposvari (Master 2021)
+ - Robert Klassert (Master August 2021)
+ - Sebastian Syrkowski (Master September 2021)
  - Bjarne Bergh (Master October 2020), now at Cambridge University
  - Leander Haase (Bachelor September 2020), now master student in Heidelberg
  - Linda Shen (PhD 2020, co-supervision with J. Berges), now at RWE
