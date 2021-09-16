@@ -11,8 +11,7 @@ headless = true  # This file represents a page section.
 active = true
 weight = 20  # Order that this section will appear.
 
-#title = ""
-#hero_media = ""
+title = "test title"
 
 [design]
   columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
