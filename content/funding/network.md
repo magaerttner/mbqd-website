@@ -21,7 +21,7 @@ subtitle:
       <img src="/logos/isoquant.jpg" alt="SFB 1225 ISOQUANT">
     </a>
   </div>
-  <span style="float: right; width: 70%; padding: 40px 0px">We are funded by the DFG within the Collaborative Research Center ISQOQUANT (SFB1225). Within this network we study entanglement in quantum fields (Project A06) and the dynamics of disordered quantum systems (Project A05) in collaboration with experimental and theoretical groups.</span>
+  <span style="float: right; width: 70%; padding-top: 40px">We are funded by the DFG within the Collaborative Research Center ISOQUANT (SFB1225). Within this network we study entanglement in quantum fields (Project A06) and the dynamics of disordered quantum systems (Project A05) in collaboration with experimental and theoretical groups.</span>
 </div>
   
 <div class="img-row">
@@ -30,7 +30,7 @@ subtitle:
       <img src="/logos/bw_stiftung.png" alt="Baden-Württemberg foundation">
     </a>
   </div>
-  <span style="float: right; width: 70%; padding: 40px 0px">We are funded by the Baden-Württemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.</span>
+  <span style="float: right; width: 70%; padding-top: 40px">We are funded by the Baden-Württemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.</span>
 </div>
 
 
@@ -40,7 +40,7 @@ subtitle:
       <img src="/logos/structures1.png" alt="Cluster of Excellence STRUCTURES">
     </a>
   </div>
-  <span style="float: right; width: 70%; padding: 40px 0px">We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau in an <a href="https://structures.uni-heidelberg.de/eps.html">exploratory project</a> on "Emergent phases of matter in driven disordered spin systems".</span>
+  <span style="float: right; width: 70%; padding-top: 40px">We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau in an <a href="https://structures.uni-heidelberg.de/eps.html">exploratory project</a> on "Emergent phases of matter in driven disordered spin systems".</span>
 </div>
 
 <div class="img-row">
@@ -49,6 +49,6 @@ subtitle:
       <img src="/logos/synqs.png" alt="SynQS group">
     </a>
   </div>
-  <span style="float: right; width: 70%; padding: 40px 0px">We collaborate closely with other experimental and theoretical groups within the Synthetic Quantum Systems (SynQS) collaboration.</span>
+  <span style="float: right; width: 70%; padding-top: 40px">We collaborate closely with other experimental and theoretical groups within the Synthetic Quantum Systems (SynQS) collaboration.</span>
 </div>
 
