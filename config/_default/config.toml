@@ -80,7 +80,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Related content.
 [related]
-  threshold = 200.0
+  threshold = 100.0
   includeNewer = false
   toLower = true
 
@@ -90,6 +90,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
   [[related.indices]]
     name = "categories"
+    weight = 0.0
+  [[related.indices]]
+    name = "authors"
+    weight = 0.0
+  [[related.indices]]
+    name = "publication_types"
     weight = 0.0
 
 # Install Wowchemy
