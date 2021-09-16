@@ -39,13 +39,13 @@
 
 [[main]]
   name = "Martin Gärttner"
-  url = "talk"
-  parent = "author/martin-garttner"
+  url = "author/martin-garttner"
+  parent = "people"
   weight = 10
   
 [[main]]
   name = "Group members"
-  url = "talk"
+  url = "people"
   parent = "people"
   weight = 20
  
