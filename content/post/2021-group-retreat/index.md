@@ -1,5 +1,5 @@
 ---
-title: Inaugural annual MBQD group retreat
+title: Inaugural MBQD group retreat
 date: 2021-09-27
 authors:
 - stockdale
