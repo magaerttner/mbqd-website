@@ -1,6 +1,6 @@
 ---
 title: Scalable quantum state tomography with artificial neural networks [Blogpost]
-date: 2021-06-03
+date: 2021-10-11
 authors:
 - schmale
 - reh
