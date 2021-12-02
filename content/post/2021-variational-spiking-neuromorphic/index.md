@@ -1,5 +1,4 @@
 ---
-
 title: Variational learning of quantum ground states on spiking neuromorphic hardware [Blogpost]
 date: 2021-12-01
 authors:
@@ -14,11 +13,10 @@ projects:
 tags: ['variational-ground-state-search', 'neuromorphic-hardware', 'spiking-neural-networks', 'MCMC', 'machine-learning']
 
 links:
-
-- icon_pack: fas
-icon: arrow-circle-right
-name: Publication
-url: /publication/klassert-2021/
+ - icon_pack: fas
+   icon: arrow-circle-right
+   name: Publication
+   url: /publication/klassert-2021/
 
 ---
 
