@@ -1,7 +1,7 @@
 ---
 
 title: Variational learning of quantum ground states on spiking neuromorphic hardware [Blogpost]
-date: 2021-12-x
+date: 2021-12-01
 authors:
 - klassert
 - A. Baumbach
