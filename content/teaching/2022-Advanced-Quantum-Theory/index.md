@@ -64,14 +64,22 @@ Topics include:
 
 If you want to participate in this lecture, please sign up for the [tutorials](https://uebungen.physik.uni-heidelberg.de/vorlesung/20221/1484).
 
-Dates and room: Lecture Mondays 14:15-16:00 starting on 25.04.2022. Room: Philos.-weg 12 / kHS. Tutorials biweekly on Tuesdays 16:15-18:00 or Wednesdays 14:15-16:00.
+#### Dates and room
+Lecture Mondays 14:15-16:00 starting on 25.04.2022. Room: Philos.-weg 12 / kHS. 
 
-Prerequisites: Solid knowledge of quantum mechanics (PEP3+PTP4). Theoretical Quantum Statistics or Introduction to Quantum Science and Technology is very useful.
+Tutorials biweekly on Tuesdays 16:15-18:00 or Wednesdays 14:15-16:00.
 
-Mode of examination: The grade will be based on a written exam.
+#### Prerequisites
+Solid knowledge of quantum mechanics (PEP3+PTP4). Theoretical Quantum Statistics or Introduction to Quantum Science and Technology is very useful.
 
-Literature:
-- Quantum computation and quantum information by Nielsen and Chuang: Classic textbook. We will focus in the quantum information part.
-- [The Theory of Quantum Information by Watrous](https://cs.uwaterloo.ca/~watrous/TQI/): Comprehensive introduction to quantum information theory, rather formal/mathematical, including some more specialized concepts
-- [From Classical to Quantum Shannon Theory by Wilde](https://arxiv.org/abs/1106.1445): Very comprehensive introduction to classical and quantum information theory, focus on coding and data compression, data transmission
+#### Mode of examination
+The grade will be based on a written exam.
+
+#### Literature
+- *Quantum computation and quantum information* by Nielsen and Chuang\
+Classic textbook. We will focus in the quantum information part.
+- [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/) by Watrous\
+Comprehensive introduction to quantum information theory, rather formal/mathematical, including some more specialized concepts
+- [From Classical to Quantum Shannon Theory](https://arxiv.org/abs/1106.1445) by Wilde\
+Very comprehensive introduction to classical and quantum information theory, focus on coding and data compression, data transmission
 - [Lecture notes](http://theory.caltech.edu/~preskill/ph219/index.html#lecture) of John Preskill (Chapters 1-4 and 10) and [corresponding videos](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
