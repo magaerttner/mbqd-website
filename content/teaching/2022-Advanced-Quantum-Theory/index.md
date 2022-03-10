@@ -33,11 +33,11 @@ links:
   - icon_pack: fas
     icon: arrow-circle-right
     name: LSF
-    url: 'https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=339052&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung'
+    url: 'https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=360512&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung'
   - icon_pack: fas
     icon: arrow-circle-right
     name: Tutorials
-    url: 'https://uebungen.physik.uni-heidelberg.de/v/1328'
+    url: 'https://uebungen.physik.uni-heidelberg.de/vorlesung/20221/1484'
 
 
 # Projects (optional).
