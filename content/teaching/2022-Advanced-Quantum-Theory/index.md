@@ -6,7 +6,7 @@ authors:
 - gaerttner
 
 
-date: "2022-03-20"
+date: "2022-03-13"
 lastmod: "2022-03-09"
 featured: false
 draft: false
@@ -62,24 +62,16 @@ Topics include:
 - Quantum thermalization
 - Lindblad Master equation
 
-For more information and registration go to: [https://uebungen.physik.uni-heidelberg.de/vorlesung/20221/1484](https://uebungen.physik.uni-heidelberg.de/vorlesung/20221/1484)
+If you want to participate in this lecture, please sign up for the [tutorials](https://uebungen.physik.uni-heidelberg.de/vorlesung/20221/1484).
 
+Dates and room: Lecture Mondays 14:15-16:00 starting on 25.04.2022. Room: Philos.-weg 12 / kHS. Tutorials biweekly on Tuesdays 16:15-18:00 or Wednesdays 14:15-16:00.
 
-----------------------------
-
-Not yet updated:
-
-Dates and time: Mondays 14:15-16:00h, online on zoom (link will be provided in the exercise group system), first session on 12.04.2021, Tutorials: Wednesday 16:15-18:00h and Thursday 14:15-16:00h (Note that the time of the Thursday tutorial was changed compared to the time announced in the LSF.)
-
-If you want to participate in this lecture, please sign up for the <a href="https://uebungen.physik.uni-heidelberg.de/v/1328">tutorials</a>.
-
-Course requirements: Basic knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
+Prerequisites: Solid knowledge of quantum mechanics (PEP3+PTP4). Theoretical Quantum Statistics or Introduction to Quantum Science and Technology is very useful.
 
 Mode of examination: The grade will be based on a written exam.
 
 Literature:
-- Nielsen and Chuang: Quantum computation and quantum information 
-- Watrous: The Theory of Quantum Information
-- Wilde: From Classical to Quantum Shannon Theory
-- Bengtsson and Życzkowski: Geometry of Quantum States
-- Lecture notes of <a href="http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html">John Preskill</a>
+- Quantum computation and quantum information by Nielsen and Chuang: Classic textbook. We will focus in the quantum information part.
+- [The Theory of Quantum Information by Watrous](https://cs.uwaterloo.ca/~watrous/TQI/): Comprehensive introduction to quantum information theory, rather formal/mathematical, including some more specialized concepts
+- [From Classical to Quantum Shannon Theory by Wilde](https://arxiv.org/abs/1106.1445): Very comprehensive introduction to classical and quantum information theory, focus on coding and data compression, data transmission
+- [Lecture notes](http://theory.caltech.edu/~preskill/ph219/index.html#lecture) of John Preskill (Chapters 1-4 and 10) and [corresponding videos](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
