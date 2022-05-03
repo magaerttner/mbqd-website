@@ -15,6 +15,7 @@ design:
 title: Former members
 subtitle:
 ---
+ - Tim Rein (Bachelor March 2022)
  - Tobias Schmale (Master October 2021), now at Hannover University
  - Robert Klassert (Master September 2021)
  - Sebastian Syrkowski (Master June 2021)
