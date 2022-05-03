@@ -13,7 +13,7 @@ authors:
 #- epping
 #- schmale
 - aasen
-- grabnitz
+- grabitz
 - rieger
 
 # Determines ordering of projects
