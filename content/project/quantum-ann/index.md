@@ -13,6 +13,8 @@ authors:
 #- epping
 #- schmale
 - aasen
+- grabnitz
+- rieger
 
 # Determines ordering of projects
 weight: 4
