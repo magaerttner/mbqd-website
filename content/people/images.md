@@ -17,13 +17,13 @@ gallery_item:
  - album: grouppics
    image: grouppics/2021_group_retreat_hut.jpg
    caption: Group retreat to Jamtalhütte in summer 2021 
-- album: grouppics
+ - album: grouppics
    image: grouppics/2021_group_retreat_talks.jpg
    caption: Discussing physics at Jamtalhütte 2021
-- album: grouppics
+ - album: grouppics
    image: grouppics/2021_group_retreat_way_up.jpg
    caption: On they way up to Rußkopf (2693m) on the first day of the Group retreat 2021
-- album: grouppics
+ - album: grouppics
    image: grouppics/2021_group_retreat_cross.jpg
    caption: At the very top of Grenzeckkopf (3048m) on the second day of the Group retreat 2021
  - album: grouppics
