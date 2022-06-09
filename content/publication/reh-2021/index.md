@@ -10,7 +10,7 @@ authors:
 - gaerttner
 tags: ['open quantum systems', 'quantum machine learning', 'ANN']
 categories: []
-date: 2021-03-31
+date:
 lastmod: 2021-01-21T20:50:11.942193Z
 featured: false
 draft: false
