@@ -39,7 +39,7 @@ content:
   coordinates:
     latitude: '49.41627686041282'
     longitude: '8.671862598306253'
-  directions: Office: 02.108
+  directions: 'Office: 02.108'
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
