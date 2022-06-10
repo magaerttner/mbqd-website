@@ -19,7 +19,7 @@
       {{ partial $widget $params }}
     {{end}}
 
-    {{/* $query := where .Pages ".IsNode" false }*/}
+    {{/* $query := where .Pages ".IsNode" false */}}
     {{/* Limit related to newest 5 */}}
     {{ $query := sort (where .Pages ".IsNode" false) "Date" "desc" | first 5 }}
     {{ $count := len $query }}
