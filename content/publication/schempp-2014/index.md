@@ -8,10 +8,10 @@ authors:
   - 'D. Breyel'
   - 'A. Komnik'
   - 'D. W. Sch\n̈leber'
-  - 'M. Gẗ̈tner'
+  - 'M. G\"ẗtner'
   - 'J. Evers'
   - 'S. Whitlock'
-  - 'M. Weidem\ë̈r'
+  - 'M. Weidemüër'
 date: 2014-01-01
 doi: 10.1103/PhysRevLett.112.013002
 projects: []

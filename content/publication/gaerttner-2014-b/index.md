@@ -4,7 +4,7 @@ authors:
   - gaerttner
   - 'Shannon Whitlock'
   - 'David W. Sch\n̈leber'
-  - 'Jg̈̈ Evers'
+  - 'J\"g̈ Evers'
 date: 2014-12-01
 doi: 10.1103/PhysRevLett.113.233002
 projects: []

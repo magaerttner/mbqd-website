@@ -8,7 +8,7 @@ authors:
   - 'M. G̈̊ttner'
   - 'J. Evers'
   - 'S. Whitlock'
-  - 'M. Weideml̈̈er'
+  - 'M. Weidem\"l̈er'
 date: 2013-05-01
 doi: 10.1103/PhysRevLett.110.203601
 projects: []

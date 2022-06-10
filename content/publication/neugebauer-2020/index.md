@@ -6,8 +6,8 @@ authors:
   - 'Alexander Jäger'
   - 'Stefanie Czischek'
   - 'Selim Jochim'
-  - 'Matthias Weidemł̈ler'
-  - 'Martin Gẗ̈tner'
+  - 'Matthias Weidem\l̈ler'
+  - 'Martin G\"ẗtner'
 date: 2020-10-01
 doi: 10.1103/PhysRevA.102.042604
 projects:

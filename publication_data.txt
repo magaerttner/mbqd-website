@@ -11,7 +11,7 @@
     analog hardware, demonstrating an important building block for simulating quantum
     systems with spiking neuromorphic chips.'
   day: 5
-  month: 8
+  month: 1
   projects:
     - quantum-ann
   year: 2022

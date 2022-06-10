@@ -7,7 +7,7 @@ authors:
   - gaerttner
   - 'S. Whitlock'
   - 'G. Z̈̊n'
-  - 'M. Weideml̈̈er'
+  - 'M. Weidem\"l̈er'
 date: 2021-01-01
 doi: 10.1103/PhysRevX.11.011011
 projects:

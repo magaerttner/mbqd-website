@@ -5,7 +5,7 @@ authors:
   - gaerttner
   - 'Philipp C̈̊lin'
   - 'Alexander Sperl'
-  - 'Michael Schẅ̈ald'
+  - 'Michael Sch\"ẅald'
   - 'Tomoya Mizuno'
   - 'Giuseppe Sansone'
   - 'Arne Senftleben'

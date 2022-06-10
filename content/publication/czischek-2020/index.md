@@ -22,12 +22,12 @@ authors:
   - 'Mihai A. Petrovici'
   - 'Thomas Gasenzer'
   - gaerttner
-date: 2022-08-05
+date: 2022-01-05
 doi: 10.21468/SciPostPhys.12.1.039
 projects:
   - quantum-ann
 publication: 'SciPost Phys. **12**, 39 (2022)'
 publication_types:
   - 2
-title: 'Spiking neuromorphic chip learns entangled quantum states'
+title: '{Spiking neuromorphic chip learns entangled quantum states}'
 ---

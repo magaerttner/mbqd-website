@@ -17,7 +17,7 @@ authors:
   - 'C. Hainaut'
   - 'G. Zürn'
   - 'M. Weidemuller'
-  - 'M. G̈̊ttner'
+  - gaerttner
 date: 2022-01-01
 doi: 10.1103/PhysRevB.105.L020201
 projects:

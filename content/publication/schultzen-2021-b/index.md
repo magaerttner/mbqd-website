@@ -19,8 +19,8 @@ authors:
   - 'A. Salzinger'
   - 'A. Tebben'
   - 'G. Zürn'
-  - 'M. G̈̊ttner'
-  - 'M. Weidem\"l̈er'
+  - gaerttner
+  - 'M. Weidemüller'
 date: 2022-03-28
 doi: 10.1103/PhysRevB.105.L100201
 projects:
