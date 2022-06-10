@@ -37,6 +37,9 @@ image:
 projects:
 - disorder
 
+
+url_pdf: static/slides/2022-braemer-dpg.pdf
+
 # Enable math on this page?
 math: true
 ---
