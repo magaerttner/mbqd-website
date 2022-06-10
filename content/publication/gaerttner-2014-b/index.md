@@ -3,8 +3,8 @@ abstract: ""
 authors:
   - gaerttner
   - 'Shannon Whitlock'
-  - 'David W. Sch\n̈leber'
-  - 'J\"g̈ Evers'
+  - 'David W. Schönleber'
+  - 'Jörg Evers'
 date: 2014-12-01
 doi: 10.1103/PhysRevLett.113.233002
 projects: []

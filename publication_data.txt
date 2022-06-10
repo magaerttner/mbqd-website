@@ -95,7 +95,14 @@ Gaerttner2012:
   projects: []
   year: 2012
 Gaerttner2013:
-  abstract: ""
+  abstract: ' We present a theoretical study of the impact of an electric field combined
+    with a magnetic field on the rotational dynamics of open-shell diatomic molecules.
+    Within the rigid rotor approximation, we solve the time-independent Schrödinger
+    equation including the fine-structure interactions and the Λ-doubling effects.
+    We consider three sets of molecule-specific parameters and several field regimes
+    and investigate the interplay between the different interactions identifying the
+    dominant one. The possibility of inducing couplings between the spin and rotational
+    degrees of freedom is demonstrated. '
   day: 1
   month: 1
   projects: []
@@ -115,7 +122,7 @@ Gaerttner2013c:
 Gaerttner2014:
   abstract: ""
   day: 1
-  month: 6
+  month: 3
   projects: []
   year: 2014
 Gaerttner2014b:
@@ -180,7 +187,7 @@ Gärttner2022:
 Heeg2012:
   abstract: ""
   day: 1
-  month: 12
+  month: 9
   projects: []
   year: 2012
 Hofmann2013:
@@ -232,7 +239,20 @@ Neugebauer2020:
     - quantum-ann
   year: 2020
 Omiste2011:
-  abstract: ""
+  abstract: 'We present a theoretical study of recent laser-alignment and mixed-field-orientation
+    experiments of asymmetric top molecules. In these experiments{,} pendular states
+    were created using linearly polarized strong ac electric fields from pulsed lasers
+    in combination with weak electrostatic fields. We compare the outcome of our calculations
+    with experimental results obtained for the prototypical large molecule benzonitrile
+    (C7H5N) [J. L. Hansen et al.{,} Phys. Rev. A{,} 2011{,} 83{,} 023406.] and explore
+    the directional properties of the molecular ensemble for several field configurations{,}
+    i.e.{,} for various field strengths and angles between ac and dc fields. For perpendicular
+    fields one obtains pure alignment{,} which is well reproduced by the simulations.
+    For tilted fields{,} we show that a fully adiabatic description of the process
+    does not reproduce the experimentally observed orientation{,} and it is mandatory
+    to use a diabatic model for population transfer between rotational states. We
+    develop such a model and compare its outcome to the experimental data confirming
+    the importance of non-adiabatic processes in the field-dressed molecular dynamics.'
   day: 1
   month: 1
   projects: []

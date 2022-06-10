@@ -6,8 +6,8 @@ authors:
   - 'R. Ferracini Alves'
   - gaerttner
   - 'S. Whitlock'
-  - 'G. Z̈̊n'
-  - 'M. Weidem\"l̈er'
+  - 'G. Zürn'
+  - 'M. Weidemüller'
 date: 2021-01-01
 doi: 10.1103/PhysRevX.11.011011
 projects:

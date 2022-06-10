@@ -29,5 +29,5 @@ projects:
 publication: 'SciPost Phys. **12**, 39 (2022)'
 publication_types:
   - 2
-title: '{Spiking neuromorphic chip learns entangled quantum states}'
+title: 'Spiking neuromorphic chip learns entangled quantum states'
 ---

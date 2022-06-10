@@ -1,14 +1,15 @@
 ---
 abstract: ""
 authors:
-  - 'Kilian P. Heeg'
   - gaerttner
-  - 'J̈̊g Evers'
-date: 2012-12-01
-doi: 10.1103/PhysRevA.86.063421
+  - 'Kilian P. Heeg'
+  - 'Thomas Gasenzer'
+  - 'Jörg Evers'
+date: 2012-09-01
+doi: 10.1103/PhysRevA.86.033422
 projects: []
-publication: 'Phys. Rev. A **86**, 063421 (2012)'
+publication: 'Phys. Rev. A **86**, 033422 (2012)'
 publication_types:
   - 2
-title: 'Hybrid model for Rydberg gases including exact two-body correlations'
+title: 'Finite-size effects in strongly interacting Rydberg gases'
 ---

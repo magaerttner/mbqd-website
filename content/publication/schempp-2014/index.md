@@ -7,11 +7,11 @@ authors:
   - 'C. S. Hofmann'
   - 'D. Breyel'
   - 'A. Komnik'
-  - 'D. W. Sch\n̈leber'
-  - 'M. G\"ẗtner'
+  - 'D. W. Schönleber'
+  - gaerttner
   - 'J. Evers'
   - 'S. Whitlock'
-  - 'M. Weidemüër'
+  - 'M. Weidemüller'
 date: 2014-01-01
 doi: 10.1103/PhysRevLett.112.013002
 projects: []

@@ -4,7 +4,7 @@ authors:
   - gaerttner
   - 'Kilian P. Heeg'
   - 'Thomas Gasenzer'
-  - 'J̈̊g Evers'
+  - 'Jörg Evers'
 date: 2013-10-01
 doi: 10.1103/PhysRevA.88.043410
 projects: []

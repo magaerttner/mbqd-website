@@ -6,7 +6,7 @@ authors:
   - 'Stefan Lannig'
   - 'Rodrigo Rosa-Medina'
   - 'Alexis Bonnin'
-  - 'Martin G̈̊ttner'
+  - gaerttner
   - 'Helmut Strobel'
   - 'Markus K. Oberthaler'
 date: 2019-08-01

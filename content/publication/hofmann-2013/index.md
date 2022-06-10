@@ -5,10 +5,10 @@ authors:
   - 'G. Günter'
   - 'H. Schempp'
   - 'M. Robert-de-Saint-Vincent'
-  - 'M. G̈̊ttner'
+  - gaerttner
   - 'J. Evers'
   - 'S. Whitlock'
-  - 'M. Weidem\"l̈er'
+  - 'M. Weidemüller'
 date: 2013-05-01
 doi: 10.1103/PhysRevLett.110.203601
 projects: []

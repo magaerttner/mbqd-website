@@ -2,7 +2,7 @@
 abstract: ""
 authors:
   - gaerttner
-  - 'J̈̊g Evers'
+  - 'Jörg Evers'
 date: 2013-09-01
 doi: 10.1103/PhysRevA.88.033417
 projects: []

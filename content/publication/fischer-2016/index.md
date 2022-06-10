@@ -3,9 +3,9 @@ abstract: ""
 authors:
   - 'Andreas Fischer'
   - gaerttner
-  - 'Philipp C̈̊lin'
+  - 'Philipp Cörlin'
   - 'Alexander Sperl'
-  - 'Michael Sch\"ẅald'
+  - 'Michael Schönwald'
   - 'Tomoya Mizuno'
   - 'Giuseppe Sansone'
   - 'Arne Senftleben'

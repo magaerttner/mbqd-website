@@ -17,7 +17,7 @@ abstract: 'We experimentally investigate the nonlinear transmission spectrum of 
   models as well as few-photon theories.'
 authors:
   - 'Annika Tebben'
-  - 'Cl\''ement Hainaut'
+  - 'Clément Hainaut'
   - 'Andre Salzinger'
   - 'Sebastian Geier'
   - 'Titus Franz'
