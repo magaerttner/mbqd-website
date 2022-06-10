@@ -2,8 +2,8 @@
 abstract: ""
 authors:
   - 'David W. Schönleber'
-  - 'Martin G̈̊ttner'
-  - 'J\"g̈ Evers'
+  - gaerttner
+  - 'Jörg Evers'
 date: 2014-03-01
 doi: 10.1103/PhysRevA.89.033421
 projects: []

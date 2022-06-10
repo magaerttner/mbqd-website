@@ -1,15 +1,15 @@
 ---
 abstract: ""
 authors:
-  - 'David W. Schönleber'
   - gaerttner
+  - 'Shannon Whitlock'
+  - 'David W. Schönleber'
   - 'Jörg Evers'
-date: 2014-03-01
-doi: 10.1103/PhysRevA.89.033421
+date: 2014-12-01
+doi: 10.1103/PhysRevLett.113.233002
 projects: []
-publication: 'Phys. Rev. A **89**, 033421 (2014)'
+publication: 'Phys. Rev. Lett. **113**, 233002 (2014)'
 publication_types:
   - 2
-title: 'Coherent versus incoherent excitation dynamics in dissipative many-body Rydberg
-  systems'
+title: 'Collective Excitation of Rydberg-Atom Ensembles beyond the Superatom Model'
 ---
