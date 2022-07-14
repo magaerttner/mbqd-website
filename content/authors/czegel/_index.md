@@ -53,4 +53,4 @@ social:
 # Administration: >1000
 weight: 500
 ---
-Quantum states can be highly complex objects to model classically. What are the boundaries of neural networks representing these states? How well can they approximate? How complex states can be efficiently approximated and how do they connect to the complexity zoo?
+Quantum states can be highly complex objects to model classically. What are the boundaries of neural networks representing these states? How well can they approximate? How can complex states be efficiently approximated and how do they connect to the complexity zoo?
