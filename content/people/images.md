@@ -14,10 +14,10 @@ headless: true
 weight: 40
 
 gallery_item:
-- album: grouppics
+ - album: grouppics
    image: grouppics/2022_group_retreat_hut.jpg
    caption: Group retreat to Hanauer Hütte in summer 2022
-- album: grouppics
+ - album: grouppics
    image: grouppics/2022_group_retreat_lake.jpg
    caption: At Steinsee during the group retreat (summer 2022)
  - album: grouppics
