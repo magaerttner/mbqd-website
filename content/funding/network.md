@@ -53,7 +53,9 @@ subtitle:
         <img src="/logos/isoquant.jpg" alt="SFB 1225 ISOQUANT">
       </a>
     </div>
-    <span>We are funded by the DFG within the Collaborative Research Center ISOQUANT (SFB1225). Within this network we study entanglement in quantum fields (Project A06) and the dynamics of disordered quantum systems (Project A05) in collaboration with experimental and theoretical groups.</span>
+    <div class="funding-cell">
+      <span>We are funded by the DFG within the Collaborative Research Center ISOQUANT (SFB1225). Within this network we study entanglement in quantum fields (Project A06) and the dynamics of disordered quantum systems (Project A05) in collaboration with experimental and theoretical groups.</span>
+    </div>
   </div>
     
   <div class="funding-row">
