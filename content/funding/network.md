@@ -17,7 +17,7 @@ subtitle:
 --- 
 <style>
   .funding-row {
-    margin: 25px 10px;
+    margin: 25px 5px;
   }
 
   .funding-cell * {
