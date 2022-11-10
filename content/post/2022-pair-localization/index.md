@@ -28,7 +28,7 @@ In our paper, we consider a new type of disordered couplings induced by position
 Furthermore, we consider gases of Rydberg atoms, where the positions are not entirely random but subjected to the Rydberg blockade. This essentially means, there is a minimal distance $r_b$ between atoms. We can use this second length scale to effectively control how disordered the system is: When the density is high, the Rydberg atoms need to arrange themselves in an orderly manner, whereas with low density their positions become more and more uncorrelated. 
 
 <p align="center">
-<img src="order-disorder.png">
+<img style="width: 66%" src="order-disorder.png">
 </p>
 
 The Hamiltonian describing the spin dynamics the usual XXZ-Hamiltonian:
