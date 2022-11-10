@@ -21,7 +21,7 @@ links:
 
 Our new paper, *[Pair localization in dipolar systems with tunable positional disorder](https://link.aps.org/doi/10.1103/PhysRevB.106.134212)*, has recently been published in Physical Review B!
 
-By now it no news that quantum subjected to some kind of (quenched) disorder may not achieve thermal equilibrium until very late times. This phenomenon is called many-body localization and is commonly studied in spin models where randomness is introduced via random on-site potentials or random couplings. 
+By now it is no news that quantum subject to some kind of (quenched) disorder may not achieve thermal equilibrium until very late times. This phenomenon is called many-body localization and is commonly studied in spin models where randomness is introduced via random on-site potentials or random couplings. 
 
 In our paper, we consider a new type of disordered couplings induced by positioning power-law interacting spins randomly within some given volume. This kind of disorder arises naturally in cold atomic gases, where electronic interactions give rise to couplings $J\propto r^{-\alpha}$ with $\alpha=3$ for direct dipolar and $\alpha=6$ in the case of Van der Waals interaction. 
 
