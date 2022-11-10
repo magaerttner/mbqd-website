@@ -31,10 +31,6 @@ Furthermore, we consider gases of Rydberg atoms, where the positions are not ent
 <img style="width: 66%" src="order-disorder.png">
 </p>
 
-The Hamiltonian describing the spin dynamics the usual XXZ-Hamiltonian:
-$$\hat{H} = \frac{1}{2}\sum_{i\neq j} J_{ij}\left( \hat{S}_x^{(i)}\hat{S}_x^{(j)} + \hat{S}_y^{(i)}\hat{S}_y^{(j)} + \Delta \hat{S}_z^{(i)}\hat{S}_z^{(j)}\right)
-$$
-
 Through numerical simulation, we found, that for low densities this system, despite featuring long-range, all-to-all interactions, indeed shows localization! And there is an intuitive explanation: Although in principle every spin can interact with each other spin, for strong disorder every spin has one closest "partner" it will interact with most. These pairs of spin get strongly entangled with each other such that due to monogamy of entanglement, they effectively decouple from the rest of the system. Here is a small visualization of the short-time dynamics of 10 spins in a 1D chain with periodic boundaries:
 
 <p align="center">
