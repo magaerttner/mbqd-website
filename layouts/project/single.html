@@ -21,9 +21,8 @@
       {{ if ge $ideas_len 1 }}
         <h2>Project ideas</h2>
         {{ range $index, $item := $items }}
+        <!-- all views look identical -->
           {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.post_view | default "compact") "index" $index) }}
-          {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.talk_view | default "compact") "index" $index) }}
-          {{ partial "functions/render_view" (dict "page" $ "item" . "view" (site.Params.projects.publication_view | default "compact") "index" $index) }}
         {{end}}
       {{ end }}
 
