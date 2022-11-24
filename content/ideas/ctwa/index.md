@@ -26,11 +26,11 @@ image:
   caption: ""
   focal_point: Smart
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com
+links:
+- icon: list
+  icon_pack: fas
+  name: All ideas
+  url: /ideas
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
