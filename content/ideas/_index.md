@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-We are always looking for motivated students! Please look at [Contacts](/#contact) to get in touch! Here are some possible project ideas, but topics will always be discussed individually.
+We are always looking for motivated students! Please look at [Contacts](/#contact) to get in touch! Here are some possible project ideas to give you an impression, but topics can always be discussed individually.
