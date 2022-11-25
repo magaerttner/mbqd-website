@@ -5,6 +5,8 @@ summary: This is a sample project to have a second one for display.
 # Short title used in page links (if not set, defaults to title)
 # title_short: ANN
 
+active: false
+
 projects:
 - quantum-ann
 

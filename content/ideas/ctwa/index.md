@@ -45,8 +45,29 @@ slides: ""
 
 math: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus feugiat nisl vitae eleifend. Nullam imperdiet egestas sodales. Phasellus in massa enim. Nulla faucibus turpis sed magna laoreet, a convallis dui dignissim. Vestibulum et rhoncus augue, sed dignissim neque. Aenean laoreet erat eu nisl sodales, luctus eleifend risus gravida. Morbi at eros blandit, dignissim dolor non, suscipit ligula. Duis id sagittis leo.
+## Summary
+Use the Julia language[^1] to implement the dTWA and cTWA algorithms and apply them to various scenarios to learn something about the physics.
 
-Proin congue facilisis sagittis. Nunc quis tellus eu mauris hendrerit semper. Ut non euismod dolor, non commodo ipsum. Donec sodales risus neque, eu blandit mi suscipit a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer a justo bibendum, rhoncus nibh non, pretium turpis. Vestibulum odio metus, suscipit et orci id, ornare condimentum leo. Pellentesque ultricies ultrices velit, ut finibus magna. Proin consequat lorem id nunc accumsan dapibus. Etiam felis libero, blandit non nisi et, consequat malesuada risus. Morbi quis ipsum nisi. Vestibulum quis condimentum est, et semper augue.
+Note: Previous experience with Julia is not required if you have a strong programming background.
 
-Pellentesque in euismod odio, eget lacinia justo. Quisque vulputate dolor eu tincidunt lacinia. Aenean eu efficitur diam, et malesuada arcu. Nam consectetur gravida metus. Curabitur vestibulum ornare urna, sed dapibus mauris elementum non. Nunc egestas, magna a sollicitudin euismod, nibh quam aliquet tortor, ac sodales lacus est at turpis. Phasellus feugiat tortor eu dolor imperdiet convallis. Etiam vitae fermentum eros, et vestibulum velit. Aenean posuere augue in facilisis ullamcorper. Donec eget efficitur orci. Donec rhoncus, nulla sed hendrerit elementum, dolor dolor volutpat nulla, ac laoreet leo enim a diam. Morbi tempor auctor tortor, non imperdiet libero elementum non. Nam porta purus id porttitor rutrum. Nunc justo turpis, suscipit ac sapien sed, finibus condimentum quam. Aenean sit amet odio orci. 
+## Background
+The discrete truncated Wigner approximation (dTWA)[^2] is a semi-classical method for simulating the time evolution of quantum spin systems. The core idea is to sample classical initial states for each spin from the quantum initial state and propagate them with classical mean-field equations. It can be shown, that this is exact at short times but surprisingly it turns out to work remarkable well even at late times. The downside of dTWA is its uncontrolled nature. There is no good way of knowing whether your results are accurate.
+
+There is a generalization of the dTWA procedure, called cluster truncated Wigner approximation (cTWA)[^3], where spins are clustered together before sampling and propagation. This means that quantum mechanical interactions within the clusters are treated exactly and only the inter-cluster interaction is approximated semi-classically. In turn, this gives a tuning parameter to check the results for convergence, as in the limit of large cluster size (when there is only 1 cluster containing ALL spins) the procedure equivalent to the full quantum dynamics.
+
+The system of interest is a Heisenberg-type spin system where the couplings arise from power-law interaction between randomly positioned sites. Such systems arise naturally in cold atomic gases, e.g. the Rydberg experiment of the Weidemüller group who we are collaborating with. Crucially, we can control the strength of the randomness via the system's density. At strong disorder, we find that the system becomes many-body localized[^4], which essentially means the dynamics are slowed down to the point where the system decomposes into smaller parts that can't really talk to each other anymore. In this setting, dTWA does not work well (because it always predicts a diffusive behavior at late times) but cTWA should become (almost?) exact for smallish clusters - if they are chosen right.
+
+## Project outline
+First milestone: Implement dTWA and cTWA in Julia
+
+Apply (some of) the following questions/problems:
+1. Study convergence of dTWA/cTWA in thermal and MBL systems and influence of choide of clustering.
+2. No experiment is perfectly 1D/2D. What is the effect of "small dimensions" on the dynamics?
+3. Thermalising quantum systems become hydrodynamic at late times[^5], but dTWA gets the diffusion constant wrong. Can cTWA do better and can we study the change in diffusion towards the MBL regime?
+
+### References:
+[^1]: [Julia](https://julialang.org/)
+[^2]: [dTWA paper](https://link.aps.org/doi/10.1103/PhysRevX.5.011022)
+[^3]: [cTWA paper](https://www.sciencedirect.com/science/article/abs/pii/S0003491618301647?via%3Dihub)
+[^4]: [MBL review](http://arxiv.org/abs/1609.08076)
+[^5]: [Non-local emergent hydrodynamics in a long-range quantum spin system](https://arxiv.org/abs/1909.01351)
