@@ -1,5 +1,5 @@
 ---
-title: Implement cTWA
+title: Cluster Truncated Wigner Approximation
 summary: Implement a new semi-classical method for simulating spin systems offering a controlled approximation.
 
 # Short title used in page links (if not set, defaults to title)
