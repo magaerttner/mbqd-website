@@ -24,6 +24,7 @@ organizations:
 interests:
 - Many-body Quantum Dynamics
 - Machine Learning
+- Adaptive Quantum Tomography
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -50,3 +51,4 @@ social:
 # Administration: >1000
 weight: 428
 ---
+In quantum computing, it is of great importance that initialized states can be tested and verified. However, to achieve optimal error scaling of a tomography scheme, at least in post-processing, the projective measurement must be performed in the eigenbasis of the true state. We therefore aim to develop a tomography method that adapts its measurement basis during the experiment and operates at the speed of the experiment.
