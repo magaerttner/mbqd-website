@@ -13,7 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-# We are currently hiring PhD students and Postdocs!
 We are moving to the University Jena, where [Martin Gärttner](/authors/gaerttner) will take up a professor position on quantum information theory. If you are interested in joining our growing research team at the Institute for Solid State Theory and Optics in Jena, then apply now!
 
 Topics of interest cover the whole range from quantum information and computation to quantum many-body physics, with a focus on machine learning methods for quantum technologies and quantum simulation.
