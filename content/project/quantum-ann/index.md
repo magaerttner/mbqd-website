@@ -12,11 +12,12 @@ authors:
 #- klassert
 #- epping
 #- schmale
-- aasen
+#- aasen
 #- grabitz
 #- rieger
 #- stock
-- vahedi
+#- vahedi
+- jung
 
 # Determines ordering of projects
 weight: 4
