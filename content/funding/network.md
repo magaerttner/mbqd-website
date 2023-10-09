@@ -57,4 +57,37 @@ subtitle:
       <span>Martin Gärttner is a principal scientist within the <a href="https://www.acp.uni-jena.de/">Abbe Center of Photonics</a>, which bundles research activities in optics and photonics in Jena.</span>
     </div>
   </div>
+    <div class="funding-row">
+    <div class="funding-cell">
+      <a href="https://www.isoquant-heidelberg.de/">
+        <img src="/logos/isoquant.jpg" alt="SFB 1225 ISOQUANT">
+      </a>
+    </div>
+    <div class="funding-cell">
+      <span>We are funded by the DFG within the Collaborative Research Center ISOQUANT (SFB1225). Within this network we study entanglement in quantum fields (Project A06) and the dynamics of disordered quantum systems (Project A05) in collaboration with experimental and theoretical groups.</span>
+    </div>
+  </div>
+
+  <div class="funding-row">
+    <div class="funding-cell">
+      <a href="https://www.bwstiftung.de/de/programm/quantentechnologie/">
+        <img src="/logos/bw_stiftung.png" alt="Baden-Württemberg foundation">
+      </a>
+    </div>
+    <div class="funding-cell">
+      <span>We are funded by the Baden-Württemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.</span>
+    </div>
+  </div>
+
+
+  <div class="funding-row">
+    <div class="funding-cell">
+      <a href="https://www.structures.uni-heidelberg.de/">
+        <img src="/logos/structures1.png" alt="Cluster of Excellence STRUCTURES">
+      </a>
+    </div>
+    <div class="funding-cell">
+      <span>We are funded by the Cluster of Excellence STRUCTURES within which we collaborate with Razvan Gurau and Christoph Schnörr on two exploratory projects.</span>
+    </div>
+  </div>
 </div>
