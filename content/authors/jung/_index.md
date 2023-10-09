@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Vorname Nachname
+title: Martina Jung
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- nachname
+- jung
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD/Master/Bachelor Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,9 +22,9 @@ organizations:
 
 # List each interest with a dash
 interests:
-- Many-body Quantum Dynamics
-- Entanglement
-- Quantum Simulation
+- Bosonic/Spin systems
+- Machine Learning techniques
+- Neural networks
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -36,7 +36,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:name.nachname@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:martina.jung@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/HANDLE
@@ -58,5 +58,6 @@ social:
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 2
+weight: 237
 ---
+When people ask me, what I am doing, I usually explain that the world consists of two kinds of species: fermions and bosons – particles that like to antibunch and to cuddle respectively – and that I am working with the latter kind. Multimode bosonic systems are especially interesting as photonic systems represent a potential platform for quantum computing, a realistic application! Using Machine Learning techniques, I investigate how one can represent such systems efficiently.
