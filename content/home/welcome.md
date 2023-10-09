@@ -11,7 +11,7 @@ headless = true  # This file represents a page section.
 active = true
 weight = 10  # Order that this section will appear.
 
-title = "Quantum information and quantum many-body theory"
+title = "Quantum information and many-body theory"
 hero_media = ""
 
 
