@@ -32,7 +32,7 @@ subtitle:
 
     .funding-cell:nth-child(1) {
       width: 30%;
-      padding: 5%;
+      /*padding: 5%;*/
     }
 
     .funding-row {
