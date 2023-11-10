@@ -49,7 +49,7 @@ Quantum many-body systems, particularly those with frustration, have been the su
 ## Objectives
 1. Neural network quantum states (NQS): Application of NQS as a powerful computational tool to simulate the quantum ground state of the frustrated XY model[^4]. NQS provides an efficient representation of complex many-body quantum states, allowing detailed exploration of the system's behavior.
 2. Quantum information tools: Use quantum information measures such as concurrence, quantum discord (QD) and entanglement entropy to quantify and characterize the entanglement and correlations within the system. These tools will provide valuable insights into the nature of quantum phases and transitions.
-3. Investigation of suggested quantum spin phases: Investigate the possible existence of suggested quantum spin phases within the frustrated XY model. Use NQS simulations and quantum information measures to identify and characterize these phases and shed light on the underlying physics.
+3. Investigation of suggested quantum spin liquid phase: Investigate the possible existence of suggested quantum spin liquid phase within the frustrated XY model. Use NQS simulations and quantum information measures to identify and characterize these phases and shed light on the underlying physics.
 
 <p align="center">
   <img src="featured.png"">
