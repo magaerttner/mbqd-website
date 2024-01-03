@@ -17,7 +17,7 @@ date: 2024-01-02
 doi: 10.1103/PhysRevA.109.012403
 projects:
   - quantum-ann
-publication: 'Phys. Rev. A 109, 012403'
+publication: 'Phys. Rev. A **109**, 012403'
 publication_types:
   - 2
 title: 'Sample-efficient estimation of entanglement entropy through supervised learning'
