@@ -287,6 +287,33 @@ Omiste2011:
   month: 1
   projects: []
   year: 2011
+PRXQuantum.4.040338:
+  abstract: 'Quantum entanglement has been identified as a crucial concept underlying
+    many intriguing phenomena in condensed matter systems, such as topological phases
+    or many-body localization. Recently, instead of considering mere quantifiers of
+    entanglement such as entanglement entropy, the study of entanglement structure
+    in terms of the entanglement spectrum has shifted to a focus leading to new insights
+    into fractional quantum Hall states and topological insulators, among others.
+    What remains a challenge is the experimental detection of such fine-grained properties
+    of quantum systems. The development of protocols for detecting features of the
+    entanglement spectrum in cold-atom systems, which are one of the leading platforms
+    for quantum simulation, is thus highly desirable and will open up new avenues
+    for experimentally exploring quantum many-body physics. Here, we present a method
+    to bound the width of the entanglement spectrum, or entanglement dimension, of
+    cold atoms in lattice geometries, requiring only measurements in two experimentally
+    accessible bases and utilizing ballistic time-of-flight (TOF) expansion. Building
+    on previous proposals for entanglement certification for photon pairs, we first
+    consider entanglement between two atoms of different atomic species and later
+    generalize to higher numbers of atoms per species and multispecies configurations
+    showing multipartite high-dimensional entanglement. Through numerical simulations,
+    we show that our method is robust against typical experimental noise effects and
+    thus will enable high-dimensional entanglement certification in systems of up
+    to eight atoms using currently available experimental techniques.'
+  day: 1
+  month: 12
+  projects:
+    - entanglement
+  year: 2023
 PhysRevA.103.063710:
   abstract: 'We experimentally investigate the nonlinear transmission spectrum of
     coherent light fields propagating through a Rydberg-EIT medium with strong atomic
@@ -425,6 +452,29 @@ PhysRevB.107.195115:
   projects:
     - quantum-ann
   year: 2023
+PhysRevB.109.224301:
+  abstract: 'We investigate a disorder-free quantum Ising chain subject to a time-periodic
+    drive that rotates each spin by an angle $\pi⁢(1−\epsilon_i)$. In case all spins
+    experience the same deviation $\epsilon$ and the system is initialized in a fully
+    polarized state, the dynamics is known to be time crystalline: the magnetization
+    of the system exhibits period-doubled oscillations for timescales that grow exponentially
+    with the length of the chain. In this work, we study the effect of a deviation
+    $\epsilon$ that differs between spins. We find that reducing $\epsilon$ for a
+    single spin drastically enhances the lifetime of spatiotemporal order, suggesting
+    the name metronome spin. Employing perturbative arguments in an average Hamiltonian
+    picture, we explain this observation for initial states with macroscopic bulk
+    magnetization. Furthermore, in the case of random bit-string initial states, we
+    report the enhancement of the lifetime of a topological edge mode, which can also
+    be understood in the same picture. Finally, we discuss an altered geometry in
+    which the metronome spin is not directly part of the chain, affecting the dynamics
+    in different ways in the two scenarios considered. Our findings unveil the intricate
+    dynamics that emerge in Floquet systems under the influence of a spatially varying
+    drive, thereby uncovering new avenues for Floquet engineering.'
+  day: 1
+  month: 6
+  projects:
+    - disorder
+  year: 2024
 PhysRevE.105.045315:
   abstract: 'Path integrals with complex actions are encountered for many physical
     systems ranging from spin- or mass-imbalanced atomic gases and graphene to quantum
@@ -568,6 +618,13 @@ Signoles2021:
   projects:
     - disorder
   year: 2021
+aasen2023universal:
+  abstract: ""
+  day: 1
+  month: 12
+  projects:
+    - quantum-ann
+  year: 2023
 bergh2021entanglement:
   abstract: 'We study experimentally accessible lower bounds on entanglement measures
     based on entropic uncertainty relations. Experimentally quantifying entanglement
@@ -609,6 +666,26 @@ bergh2021experimentally:
   projects:
     - entanglement
   year: 2021
+braemerClusterTruncatedWigner2024:
+  abstract: 'We present a comprehensive numerical investigation of the cluster Truncated
+    Wigner Approximation (cTWA) applied to quench dynamics in bond-disordered Heisenberg
+    spin chains with power-law interactions. We find that cTWA yields highly accurate
+    results over a wide parameter range. However, its accuracy hinges on a suitable
+    choice of clusters. By using a clustering strategy inspired by the strong disorder
+    renormalisation group (SDRG)/real-space renormalization group (RSRG), clusters
+    of two spins are sufficient to obtain essentially exact results in the regime
+    of strong disorder. Surprisingly, even for rather weak disorder, e.g.{\textbackslash}
+    in the presence of very long-range interactions, this choice of clustering outperforms
+    a naive choice of clusters of consecutive spins. Additionally, we develop a discrete
+    sampling scheme for the initial Wigner function, as an alternative to the originally
+    introduced scheme based on Gaussian approximations. This sampling scheme puts
+    cTWA on the same conceptional footing as regular dTWA for single spins and yields
+    some reduction in the Monte Carlo shot noise compared to the Gaussian scheme.'
+  day: 1
+  month: 8
+  projects:
+    - disorder
+  year: 2024
 braemerPairLocalizationDipolar2022:
   abstract: 'Strongly interacting quantum systems subject to quenched disorder exhibit
     intriguing phenomena such as glassiness and many-body localization. Theoretical
@@ -627,6 +704,44 @@ braemerPairLocalizationDipolar2022:
   projects:
     - disorder
   year: 2022
+deller2024area:
+  abstract: 'The scaling of local quantum entropies is of utmost interest for characterizing
+    quantum fields, many-body systems, and gravity. Despite their importance, theoretically
+    and experimentally accessing quantum entropies is challenging as they are nonlinear
+    functionals of the underlying quantum state. Here, we show that suitably chosen
+    classical entropies capture the very same features as their quantum analogs for
+    an experimentally relevant setting. We describe the post-quench dynamics of a
+    multi-well spin-1 Bose-Einstein condensate from an initial product state via measurement
+    distributions of spin observables and estimate the corresponding entropies using
+    the asymptotically unbiased k-nearest neighbor method. We observe the dynamical
+    build-up of quantum correlations signaled by an area law, as well as local thermalization
+    revealed by a transition to a volume law, both in regimes characterized by non-Gaussian
+    distributions. We emphasize that all relevant features can be observed at small
+    sample numbers without assuming a specific functional form of the distributions,
+    rendering our method directly applicable to a large variety of models and experimental
+    platforms.'
+  day: 1
+  month: 4
+  projects:
+    - entanglement
+    - quantum-ann
+  year: 2024
+deller2024areaBEC:
+  abstract: 'We investigate the information extractable from measurement distributions
+    of two non-commuting spin observables in a multi-well spin-1 Bose-Einstein condensate.
+    We provide a variety of analytic and numerical evidence that suitably chosen classical
+    entropies and classical mutual informations thereof contain the typical feature
+    of quantum entropies known in quantum field theories, that is, the area law, even
+    in the non-Gaussian regime and for a non-zero temperature. Towards a feasible
+    experimental implementation, we estimate entropic quantities from a finite number
+    of samples without any additional assumptions on the underlying quantum state
+    using k-nearest neighbor estimators. '
+  day: 1
+  month: 4
+  projects:
+    - entanglement
+    - quantum-ann
+  year: 2024
 e25091253:
   abstract: 'This paper introduces assignment flows for density matrices as state
     spaces for representation and analysis of data associated with vertices of an
@@ -658,6 +773,59 @@ euler2023detecting:
   projects:
     - entanglement
   year: 2023
+euler2024metronome:
+  abstract: ""
+  day: 1
+  month: 2
+  projects:
+    - disorder
+  year: 2024
+franz2024emergent:
+  abstract: 'Understanding how closed quantum systems dynamically approach thermal
+    equilibrium presents a major unresolved problem in statistical physics. Generically,
+    non-integrable quantum systems are expected to thermalize as they comply with
+    the Eigenstate Thermalization Hypothesis. However, in the presence of strong disorder,
+    the dynamics can possibly slow down to a degree that systems fail to thermalize
+    on experimentally accessible timescales, as in spin glasses or many-body localized
+    systems. In general, particularly in long-range interacting quantum systems, the
+    specific nature of the disorder necessary for the emergence of a prethermal, metastable
+    state--distinctly separating the timescales of initial relaxation and subsequent
+    slow thermalization--remains an open question. We study an ensemble of Heisenberg
+    spins with a tunable distribution of random coupling strengths realized by a Rydberg
+    quantum simulator. We observe a drastic change in the late-time magnetization
+    when increasing disorder strength. The data is well described by models based
+    on pairs of strongly interacting spins, which are treated as thermal for weak
+    disorder and isolated for strong disorder. Our results indicate a crossover into
+    a pair-localized prethermal regime in a closed quantum system of thousands of
+    spins in the critical case where the exponent of the power law interaction matches
+    the spatial dimension. '
+  day: 1
+  month: 7
+  projects:
+    - disorder
+  year: 2022
+franzObservationAnisotropyindependentMagnetization2024:
+  abstract: 'An important step towards a comprehensive understanding of far-from-equilibrium
+    dynamics of quantum many-body systems is the identification of unifying features
+    that are independent of microscopic details of the system. We experimentally observe
+    such robust features in the magnetization relaxation dynamics of disordered Heisenberg
+    XX, XXZ, and Ising Hamiltonians. We realize these Heisenberg spin models with
+    tunable anisotropy parameter and power-law interactions in an ensemble of Rydberg
+    atoms by encoding the spin in suitable Rydberg state combinations. We consistently
+    observe stretched-exponential relaxation of magnetization for all considered spin
+    models, collapsing onto a single curve after appropriate rescaling of time. This
+    robust short-time relaxation behavior is explained by a perturbative treatment
+    that exploits the strong disorder in pairwise couplings, which leads to a description
+    in terms of approximately independent pairs of spins. In numerical simulations
+    of small systems, we show that these pairs of spins constitute approximate local
+    integrals of motion, which remain at least partially conserved on a timescale
+    exceeding the duration of the relaxation dynamics of the magnetization.                                                                               Published
+    by the American Physical Society                   2024'
+  day: 1
+  month: 8
+  projects:
+    - disorder
+  year: 2024
 gaerttner2022detecting:
   abstract: ""
   day: 1
@@ -679,6 +847,49 @@ gaerttner2022optimizing:
   projects:
     - entanglement
   year: 2022
+geier2024timereversal:
+  abstract: 'Time reversal in a macroscopic system is contradicting daily experience.
+    It is practically impossible to restore a shattered cup to its original state
+    by just time reversing the microscopic dynamics that led to its breakage. Yet,
+    with the precise control capabilities provided by modern quantum technology, the
+    unitary evolution of a quantum system can be reversed in time. Here, we implement
+    a time-reversal protocol in a dipolar interacting, isolated many-body spin system
+    represented by Rydberg states in an atomic gas. By changing the states encoding
+    the spin, we flip the sign of the interaction Hamiltonian, and demonstrate the
+    reversal of the relaxation dynamics of the magnetization by letting a demagnetized
+    many-body state evolve back-in-time into a magnetized state. We elucidate the
+    role of atomic motion using the concept of a Loschmidt echo. Finally, by combining
+    the approach with Floquet engineering, we demonstrate time reversal for a large
+    family of spin models with different symmetries. Our method of state transfer
+    is applicable across a wide range of quantum simulation platforms and has applications
+    far beyond quantum many-body physics, reaching from quantum-enhanced sensing to
+    quantum information scrambling. '
+  day: 1
+  month: 2
+  projects: []
+  year: 2024
+geierTimereversalDipolarQuantum2024:
+  abstract: 'Time reversal in a macroscopic system contradicts daily experience. It
+    is practically impossible to restore a shattered cup to its original state by
+    just time reversing the microscopic dynamics that led to its breakage. Yet, with
+    the precise control capabilities provided by modern quantum technology, the unitary
+    evolution of a quantum system can be reversed in time. Here, we implement a time-reversal
+    protocol in a dipolar interacting, isolated many-body spin system represented
+    by Rydberg states in an atomic gas. By changing the states encoding the spin,
+    we flip the sign of the interaction Hamiltonian, and demonstrate the reversal
+    of the relaxation dynamics of the magnetization by letting a demagnetized many-body
+    state evolve back in time into a magnetized state. We elucidate the role of atomic
+    motion using the concept of a Loschmidt echo. Finally, by combining the approach
+    with Floquet engineering, we demonstrate time reversal for a large family of spin
+    models with different symmetries. Our method of state transfer is applicable across
+    a wide range of quantum simulation platforms and has applications far beyond quantum
+    many-body physics, reaching from quantum-enhanced sensing to quantum information
+    scrambling.                                                                               Published
+    by the American Physical Society                   2024'
+  day: 1
+  month: 8
+  projects: []
+  year: 2024
 https://doi.org/10.48550/arxiv.2206.01927:
   abstract: ""
   day: 1

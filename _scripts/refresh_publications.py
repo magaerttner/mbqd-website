@@ -79,7 +79,7 @@ def try_parse_month(month):
 
 ### Projects of publication
 
-PROJECTS =  ["disorder", "entanglement", "quantum-ann"]
+PROJECTS =  ["disorder", "entanglement", "quantum-ann","tomography","quantum-simulation"]
 
 def get_projects(bibdata, old_frontmatter):
     saved = DB.get(bibdata["ID"], {})
@@ -213,7 +213,7 @@ for folder in publications.iterdir():
         
     print(bibdata)
     frontmatter = {}
-    frontmatter["title"] = bibdata["title"]
+    frontmatter["title"] = bibdata["title"].replace("{","").replace("}","") # remove extra curly braces that bibtex uses to enforce capitalization
     frontmatter["authors"] = list(map(replace_author, bibdata["author"]))
     frontmatter["publication_types"] = ["2"]
 
