@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Vorname Nachname
+title: Ege Görgün
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- nachname
+- goerguen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD/Master/Bachelor Student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
@@ -23,18 +23,19 @@ organizations:
 # List each interest with a dash
 interests:
 - Many-body Quantum Dynamics
-- Entanglement
+- Machine Learning
 - Quantum Simulation
 
 # Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-#- Alumni # change Researchers to Alumni if the person left the group
+#- Alumni
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:name.nachname@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:ege.goerguen@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/HANDLE
@@ -56,9 +57,5 @@ social:
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 2
-
-#
-# Additionally, add the user to the associated projects by adding him/her as author in the appropriate project/<projectname>/index.md
-#
+weight: 303
 ---
