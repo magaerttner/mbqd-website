@@ -27,9 +27,10 @@ interests:
 - Quantum Simulation
 
 # Organizational groups that you belong to (for People widget)
-user_groups:
-- Researchers
-#- Alumni # change Researchers to Alumni if the person left the group
+# Uncomment the two lines below
+# user_groups:
+# - Researchers
+## - Alumni # change Researchers to Alumni if the person left the group
 
 social:
 - icon: envelope
