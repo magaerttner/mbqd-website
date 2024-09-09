@@ -35,7 +35,7 @@ user_groups:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ege.goerguen@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:ege.goerguen@stud.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/HANDLE
