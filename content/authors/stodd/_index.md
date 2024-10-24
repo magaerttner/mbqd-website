@@ -22,9 +22,9 @@ organizations:
 
 # List each interest with a dash
 interests:
--Cavity Quantum Electrodynamics
--Open Quantum Systems
--Machine Learning Techniques
+- Cavity Quantum Electrodynamics
+- Open Quantum Systems
+- Machine Learning Techniques
 
 # Organizational groups that you belong to (for People widget)
 # Uncomment the two lines below
