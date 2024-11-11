@@ -25,10 +25,6 @@ image:
 
 links:
 # link to different home page?
-#  - icon_pack: fas
-#    icon: arrow-circle-right
-#    name: Homepage
-#    url: 'https://uebungen.physik.uni-heidelberg.de/v/1123'
   - icon_pack: fas
     icon: arrow-circle-right
     name: Friedolin
