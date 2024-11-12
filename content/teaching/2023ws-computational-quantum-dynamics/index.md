@@ -24,14 +24,10 @@ image:
   preview_only: false
 
 links:
-#  - icon_pack: fas
-#    icon: arrow-circle-right
-#    name: Homepage
-#    url: 'https://uebungen.physik.uni-heidelberg.de/v/1123'
   - icon_pack: fas
     icon: arrow-circle-right
     name: Friedolin
-    url: https://friedolin.uni-jena.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=220830&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+    url: 'https://friedolin.uni-jena.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=220830&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung'
 
 
 # Projects (optional).
