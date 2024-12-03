@@ -11,7 +11,7 @@ lastmod: "2025-03-31"
 featured: false
 draft: false
 tags:
- - lecture
+ - "lab work"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

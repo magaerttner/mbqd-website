@@ -11,7 +11,7 @@ lastmod: "2024-09-30"
 featured: false
 draft: false
 tags:
- - lecture
+ - seminar
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -51,6 +51,6 @@ Each participant will present one topic in a 30-minutes presentation. During pre
 
 
 #### Literature
-- [Quantum Manifesto](https://qt.eu/app/uploads/2018/04/93056_Quantum-Manifesto_WEB.pdf) 
+- [Quantum Manifesto](https://qt.eu/media/pdf/93056_Quantum-Manifesto_WEB.pdf)
 - [The quantum technologies roadmap: a European community view](https://iopscience.iop.org/article/10.1088/1367-2630/aad1ea)
 
