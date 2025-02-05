@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Heidelberg University
-  url: "https://www.uni-heidelberg.de"
+- name: Jena University
+  url: "https://www.uni-jena.de/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: ""
@@ -36,7 +36,7 @@ user_groups:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:erpelding@physi.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:mirco.erpelding@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/HANDLE
@@ -49,5 +49,5 @@ social:
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 302
+weight: 238
 ---
