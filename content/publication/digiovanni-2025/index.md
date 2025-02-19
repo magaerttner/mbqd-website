@@ -8,9 +8,9 @@ authors:
   - 'Hannes Rotzinger'
   - 'Alexey V. Ustinov'
 date: 2025-02-12
-doi: arxiv.org/abs/2502.08589 
+doi: 10.48550/arXiv.2502.08589
 projects:
-publication: 'arXiv:2502.08589'
+publication: 'ArXiv 2502.08589'
 publication_types:
   - 2
 title: 'Multiplexed qubit readout quality metric beyond assignment fidelity'
