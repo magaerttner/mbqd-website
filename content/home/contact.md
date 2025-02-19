@@ -28,7 +28,7 @@ content:
   #    captcha: false
 
   email: martin.gaerttner@uni-jena.de
-  phone: '+49 3641 9-47151'
+  phone: '+49 3641 9-47180'
   address:
     street: 'Fröbelstieg 1'
     city: Jena
