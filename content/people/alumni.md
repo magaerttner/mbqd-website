@@ -15,7 +15,7 @@ design:
 title: Former members
 subtitle:
 ---
- - Adrian Braemer ([PhD November 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/35657/))
+ - Adrian Braemer ([PhD November 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/35657/)), now at [TNG](tngtech.com) in Karlsruhe
  - Moritz Reh ([PhD April 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/34772/)), now at d-fine in Hamburg
  - Sebastian Schmidt (Intern April 2023 - September 2023)
  - András Czégel (Intern August 2022 - April 2023)
