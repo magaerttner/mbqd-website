@@ -7,6 +7,7 @@ title_short: Entanglement
 
 authors:
 - gaerttner
+- callus
 #- stockdale
 - euler
 #- rein
