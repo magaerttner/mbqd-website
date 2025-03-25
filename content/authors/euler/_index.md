@@ -24,9 +24,10 @@ organizations:
 
 # List each interest with a dash
 interests:
-- Quantum Simulation
-- Cold atoms on optical lattices
-- (High dimensional) Entanglement
+- Quantum simulation
+- Cold atoms in optical lattices
+- Optical-fiber loops
+- (High-dimensional) entanglement detection
 - Rydberg atoms
 - Disordered spin systems
 - Floquet dynamics (periodically driven quantum systems)
@@ -59,6 +60,5 @@ weight: 234
 ---
 Understanding the structure of entanglement in quantum states prepared in experiments can be quite tricky.
 I come up with methods and measurement schemes that utilize the limited tools and readout at hand to deliver new insights on a microscopic level.
-My efforts up until now have been focused on ultracold quantum gases, but I now also start working on photonic systems.
-Furthermore, I am also interested in driven many-body quantum systems out of equilibrium.
-In particular, I study the stability of long-range order in space and time using numerical methods.
+My efforts have been focused on detecting high-dimensional entanglement in ultracold quantum gases, and more recently, also in photonic systems.
+Further interests include driven many-body quantum systems out of equilibrium.
