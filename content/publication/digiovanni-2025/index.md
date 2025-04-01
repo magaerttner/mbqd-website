@@ -10,6 +10,7 @@ authors:
 date: 2025-02-12
 doi: 10.48550/arXiv.2502.08589
 projects:
+  - tomography
 publication: 'ArXiv 2502.08589'
 publication_types:
   - 2
