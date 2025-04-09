@@ -6,7 +6,7 @@ authors:
   - 'Hannes Rotzinger'
   - 'Alexey V. Ustinov'
   - gaerttner
-date: 2025-31-03
+date: 2025-03-31
 doi: 10.48550/arXiv.2503.24276
 projects:
   - tomography
