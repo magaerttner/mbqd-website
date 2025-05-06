@@ -58,6 +58,6 @@ social:
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 304
+weight: 305
 ---
 In my master thesis, I will develop a model that estimates global properties like the entanglement entropy of a quantum system based on few measurement samples. To achieve this, I will use machine learning techniques with a focus on graph neural networks. A central objective will be scalability, which is a crucial aspect in the characterization of complex quantum systems. 
