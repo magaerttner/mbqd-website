@@ -22,9 +22,8 @@ organizations:
 
 # List each interest with a dash
 interests:
-#- Many-body Quantum Dynamics
-#- Entanglement
-#- Quantum Simulation
+- Quantum Simulation
+- Quantum-Field Theory
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
