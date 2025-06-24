@@ -11,7 +11,8 @@ headless = true  # This file represents a page section.
 active = true
 weight = 10  # Order that this section will appear.
 
-title = "Quantum information and many-body theory"
+#title = "Quantum information and many-body theory"
+title = "Quantum Information and Quantum Simulation"
 hero_media = ""
 
 
@@ -52,4 +53,4 @@ hero_media = ""
   label = "Meet the team"
 +++
 
-We investigate the use of synthetic quantum systems for quantum technologies and for studying quantum many-body phenomena.
+#We investigate the use of synthetic quantum systems for quantum technologies and for studying quantum many-body phenomena.
