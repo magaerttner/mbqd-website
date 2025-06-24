@@ -30,11 +30,12 @@ content:
   email: martin.gaerttner@uni-jena.de
   phone: '+49 3641 9-47180'
   address:
-    street: 'Fröbelstieg 1'
-    city: Jena
-    region: 'Thüringen'
-    postcode: '07743'
-    country: Germany
+#    street: 'Fröbelstieg 1'
+#    city: Jena
+#    region: 'Thüringen'
+#    postcode: '07743'
+#    country: Germany
+    street: "Visitor address: <br>Institut für Festkörpertheorie und -optik<br>Fröbelstieg 1<br>07743 Jena<br>Germany"
     country_code: DE	
   coordinates:
     latitude: '50.93381570940196'
