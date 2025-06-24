@@ -45,12 +45,11 @@ hero_media = ""
 [cta]
   url = "publication"
   label = "View publications"
-  icon_pack = "fas"
-  icon = "file"
+#  icon_pack = "fas"
+#  icon = "file"
 
 [cta_alt]
   url = "people"
   label = "Meet the team"
 +++
 
-#We investigate the use of synthetic quantum systems for quantum technologies and for studying quantum many-body phenomena.
