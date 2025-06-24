@@ -12,7 +12,7 @@ doi: 10.1088/1367-2630/adc32a
 projects:
   - entanglement
   - quantum-ann
-publication: 'ArXiv 2404.12323'
+publication: 'New J. Phys **27**, 043004'
 publication_types:
   - 2
 title: 'Entropy estimation in a spin-1 Bose-Einstein condensate'
