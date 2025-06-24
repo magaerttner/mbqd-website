@@ -48,8 +48,12 @@ hero_media = ""
 #  icon_pack = "fas"
 #  icon = "file"
 
-[cta_alt]
+#[cta_alt]
+[cta]
   url = "people"
   label = "Meet the team"
 +++
+
+<p></p>
+<p></p>
 
