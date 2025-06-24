@@ -54,6 +54,4 @@ hero_media = ""
   label = "Meet the team"
 +++
 
-<p></p>
-<p></p>
 
