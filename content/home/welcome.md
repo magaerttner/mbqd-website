@@ -45,11 +45,13 @@ hero_media = ""
 [cta]
   url = "publication"
   label = "View publications"
-#  icon_pack = "fas"
-#  icon = "file"
+  icon_pack = "fas"
+  icon = "file"
 
 [cta_alt]
   url = "people"
   label = "Meet the team"
 +++
 
+<p></p>
+<p></p>
