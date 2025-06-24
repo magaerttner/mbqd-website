@@ -35,7 +35,7 @@ content:
 #    region: 'Thüringen'
 #    postcode: '07743'
 #    country: Germany
-    street: "Visitor address: <br>Institut für Festkörpertheorie und -optik<br>Friedrich-Schiller-Universität Jena<br>Fröbelstieg 1<br>07743 Jena<br>Germany<br><br>Postal address: <br>Institut für Festkörpertheorie und -optik<br>Friedrich-Schiller-Universität Jena<br>Max-Wien-Platz 1<br>07743 Jena<br>Germany<br><br>Secretary:<br>Sylvia Hennig<br>Mail: sylvia.hennig@uni-jena.de<br>Phone: +49 3641 9-47151<br>"
+    street: "Visitor address: <br>Institut für Festkörpertheorie und -optik<br>Friedrich-Schiller-Universität Jena<br>Fröbelstieg 1<br>07743 Jena<br>Germany<br><br>Postal address: <br>Institut für Festkörpertheorie und -optik<br>Friedrich-Schiller-Universität Jena<br>Max-Wien-Platz 1<br>07743 Jena<br>Germany<br><br>Secretary:<br>Sylvia Hennig<br>Mail: sylvia.hennig@uni-jena.de<br>Phone: +49 3641 9-47151"
     country_code: DE	
   coordinates:
     latitude: '50.93381570940196'
