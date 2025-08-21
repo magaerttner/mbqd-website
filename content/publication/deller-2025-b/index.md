@@ -12,7 +12,7 @@ doi: 10.1103/7jzy-g3vd
 projects:
   - entanglement
   - quantum-ann
-publication: 'Phys. Rev. A 112, L011303'
+publication: 'Phys. Rev. A **112**, L011303'
 publication_types:
   - 2
 title: 'Area laws and thermalization from classical entropies in a Bose-Einstein condensate'
