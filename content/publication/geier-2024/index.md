@@ -27,7 +27,7 @@ authors:
 date: 2024-08-01
 doi: 10.1103/PhysRevResearch.6.033197
 projects:
-publication: 'Physical Review Research **6**, 033197'
+publication: 'Phys. Rev. Res. **6**, 033197'
 publication_types:
   - 2
 title: 'Time-Reversal in a Dipolar Quantum Many-Body Spin System'
