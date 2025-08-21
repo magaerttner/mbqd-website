@@ -10,7 +10,7 @@ date: 2025-08-04
 doi: 10.1103/6p6s-t8b7
 projects:
   - tomography
-publication: 'Physical Review A *112*, 022601'
+publication: 'Phys. Rev. A **112**, 022601'
 publication_types:
   - 2
 title: 'Mitigation of correlated readout errors without randomized measurements'
