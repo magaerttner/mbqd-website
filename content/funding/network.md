@@ -49,12 +49,23 @@ subtitle:
 <div class="funding-table">
   <div class="funding-row">
     <div class="funding-cell">
-      <a href="https://www.isoquant-heidelberg.de/">
+      <a href="https://www.acp.uni-jena.de">
         <img src="/logos/acp.jpg" alt="ACP logo Jena">
       </a>
     </div>
     <div class="funding-cell">
       <span>Martin Gärttner is a principal scientist within the <a href="https://www.acp.uni-jena.de/">Abbe Center of Photonics</a>, which bundles research activities in optics and photonics in Jena.</span>
+    </div>
+  </div>
+
+  <div class="funding-row">
+    <div class="funding-cell">
+      <a href="https://www.quantensysteme.info/projektatlas/projekte/q/beryqc">
+        <img src="/logos/bmftr.png" alt="BMFTR logo">
+      </a>
+    </div>
+    <div class="funding-cell">
+      <span>We are funded by the German Ministry of Science, Technology, and Space within a collaboration project between the Universities of Stuttgart, Siegen, Hamburg, and Jena, which aims to develop new benchmarking tools for Rydberg quantum computers. Our goal is to devise entanglement-based benchmarks and to study their behavior under the optimization of quantum algorithms with respect to specific hardware capabilities.</span>
     </div>
   </div>
 
@@ -87,10 +98,9 @@ subtitle:
       </a>
     </div>
     <div class="funding-cell">
-      <span>We are funded by the Baden-Württemberg foundation within the competence network Quantum Technologies Baden-Württemberg, where we investigate methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.</span>
+      <span>We were funded by the Baden-Württemberg foundation (2021-2024) within the competence network Quantum Technologies Baden-Württemberg, where we investigated methods for verifying quantum simulators in collaboration with the group of Alexey Ustinov at KIT.</span>
     </div>
   </div>
-
 
   <div class="funding-row">
     <div class="funding-cell">
