@@ -42,7 +42,7 @@ authors:
 date: 2025-05-29
 doi: 10.48550/arXiv.2505.23860
 projects:
-publication: 'ArXiv arXiv:2505.23860'
+publication: 'ArXiv 2505.23860'
 publication_types:
   - 2
 title: 'Quantum computing and artificial intelligence: status and perspectives'

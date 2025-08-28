@@ -21,7 +21,7 @@ authors:
   - braemer
   - benn
   - gaerttner
-date: 2024-06-01
+date: 2024-06-03
 doi: 10.1103/PhysRevB.109.224301
 projects:
   - disorder
