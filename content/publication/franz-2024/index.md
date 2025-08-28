@@ -28,11 +28,11 @@ authors:
   - gaerttner
   - 'Gerhard Zürn'
   - 'Matthias Weidemüller'
-date: 2022-07-01
+date: 2024-02-24
 doi: 10.48550/arXiv.2207.14216
 projects:
   - disorder
-publication: 'ArXiv 2207.14216'
+publication: 'ArXiv 2207.14216v2'
 publication_types:
   - 2
 title: 'Emergent pair localization in a many-body quantum spin system'

@@ -13,8 +13,7 @@ abstract: 'An important step towards a comprehensive understanding of far-from-e
   of approximately independent pairs of spins. In numerical simulations of small systems,
   we show that these pairs of spins constitute approximate local integrals of motion,
   which remain at least partially conserved on a timescale exceeding the duration
-  of the relaxation dynamics of the magnetization.                                                                               Published
-  by the American Physical Society                   2024'
+  of the relaxation dynamics of the magnetization.'
 authors:
   - 'T. Franz'
   - 'S. Geier'
@@ -26,13 +25,12 @@ authors:
   - gaerttner
   - 'G. Zürn'
   - 'M. Weidemüller'
-date: 2024-08-01
+date: 2024-08-05
 doi: 10.1103/PhysRevResearch.6.033131
 projects:
   - disorder
-publication: 'Physical Review Research **6**, 033131'
+publication: 'Phys. Rev. Res. **6**, 033131'
 publication_types:
   - 2
-title: 'Observation of Anisotropy-Independent Magnetization Dynamics in Spatially
-  Disordered Heisenberg Spin Systems'
+title: 'Observation of Anisotropy-Independent Magnetization Dynamics in Spatially Disordered Heisenberg Spin Systems'
 ---
