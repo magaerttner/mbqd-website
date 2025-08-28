@@ -24,7 +24,7 @@ authors:
   - gaerttner
   - 'Gerhard Zürn'
   - 'Matthias Weidemüller'
-date: 2024-08-01
+date: 2024-08-21
 doi: 10.1103/PhysRevResearch.6.033197
 projects:
 publication: 'Phys. Rev. Res. **6**, 033197'
