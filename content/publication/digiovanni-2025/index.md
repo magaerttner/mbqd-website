@@ -11,7 +11,7 @@ date: 2025-10-15
 doi: 10.1103/dpft-lxtx
 projects:
   - tomography
-publication: 'Phys. Rev. Applied **24**, 044043'
+publication: 'Phys. Rev. Appl. **24**, 044043'
 publication_types:
   - 2
 title: 'Benchmarking the quality of multiplexed qubit readout beyond assignment fidelity'
