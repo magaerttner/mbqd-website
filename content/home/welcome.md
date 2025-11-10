@@ -53,10 +53,6 @@ hero_media = ""
   url = "people"
   label = "Meet the team"
 +++
-
 <p>
-
-</p>
-<p>
-
+This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text.
 </p>
