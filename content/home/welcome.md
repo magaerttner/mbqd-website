@@ -43,16 +43,16 @@ hero_media = ""
 [design]
   columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
 
-[cta]
-  url = "publication"
-  label = "View publications"
-  icon_pack = "fas"
-  icon = "file"
+# [cta]
+#  url = "publication"
+#  label = "View publications"
+#  icon_pack = "fas"
+#  icon = "file"
 
-[cta_alt]
-  url = "people"
-  label = "Meet the team"
+# [cta_alt]
+#  url = "people"
+#  label = "Meet the team"
 +++
 <p>
-This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text.
+# This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text. This is a test text.
 </p>
