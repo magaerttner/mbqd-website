@@ -8,51 +8,11 @@
   url = "/"
   weight = 10
 
-[[main]]
-  name = "Opportunities"
-  identifier = "opportunities"
-  weight = 15
-
-[[main]]
-  name = "Open positions"
-  parent = "opportunities"
-  url = "hire"
-  weight = 10
-
-[[main]]
-  name = "Project ideas"
-  parent = "opportunities"
-  url = "ideas"
-  weight = 20
-
-[[main]]
-  name = "Research"
-  identifier = "research"
-  weight = 20
-
-[[main]]
-  name = "Overview"
-  url = "research"
-  parent = "research"
-  weight = 10
-
-
-[[main]]
-  name = "Publications"
-  url = "publication"
-  parent = "research"
-  weight = 20
-
-[[main]]
-  name = "Talks & Posters"
-  url = "talk"
-  parent = "research"
-  weight = 30
 
 [[main]]
   name = "People"
   identifier = "people"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Martin Gärttner"
@@ -77,6 +37,30 @@
   url = "people#alumni"
   parent = "people"
   weight = 40
+  
+
+[[main]]
+  name = "Research"
+  identifier = "research"
+  weight = 30
+
+[[main]]
+  name = "Overview"
+  url = "research"
+  parent = "research"
+  weight = 10
+
+[[main]]
+  name = "Publications"
+  url = "publication"
+  parent = "research"
+  weight = 20
+
+[[main]]
+  name = "Talks & Posters"
+  url = "talk"
+  parent = "research"
+  weight = 30
 
 
 [[main]]
@@ -84,12 +68,32 @@
   url = "teaching"
   weight = 40
 
+  
+[[main]]
+  name = "Opportunities"
+  identifier = "opportunities"
+  weight = 50
+
+[[main]]
+  name = "Open positions"
+  parent = "opportunities"
+  url = "hire"
+  weight = 10
+
+[[main]]
+  name = "Project ideas"
+  parent = "opportunities"
+  url = "ideas"
+  weight = 20
+
+
 [[main]]
   name = "Blog"
   url = "post"
-  weight = 50
+  weight = 60
+
 
 [[main]]
   name = "Funding"
   url = "funding"
-  weight = 60
+  weight = 70
