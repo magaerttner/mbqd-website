@@ -48,9 +48,9 @@ social:
 # - link: https://www.researchgate.net/profile/YOURNAME
 #   icon_pack: ai
 #   icon: researchgate
-# - link: https://orcid.org/0000-0000-0000-0000
-#   icon_pack: ai
-#   icon: orcid
+- link: https://orcid.org/0000-0001-9650-4390
+  icon_pack: ai
+  icon: orcid
 # - link: https://github.com/YOURUSER
 #   icon_pack: fab
 #   icon: github
@@ -63,3 +63,5 @@ social:
 weight: 102
 ---
 My research interests lie in quantum optics and the study of integrated quantum photonics. Light and matter, in the form of various kinds of nanostructures, can be made to interact such that one obtains exotic and nonclassical states. These states can then be harnessed and serve as a resource in quantum computation, communication and information processing.
+
+My personal website: [https://elenacallus.github.io/](https://elenacallus.github.io/)
