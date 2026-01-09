@@ -10,14 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: Jena University
   url: "https://www.uni-jena.de"
-- name: Heidelberg University
-  url: "https://www.uni-heidelberg.de/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: ""
@@ -38,7 +36,7 @@ user_groups:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ege.gorgun@stud.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:ege.gorgun@uni-jena.de"  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/HANDLE
@@ -51,17 +49,21 @@ social:
 # - link: https://orcid.org/0000-0000-0000-0000
 #   icon_pack: ai
 #   icon: orcid
-# - link: https://github.com/YOURUSER
-#   icon_pack: fab
-#   icon: github
+- link: https://github.com/egeggn
+  icon_pack: fab
+  icon: github
 
 
 # Weights for ordering
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 303
+weight: 240
 ---
-Inspired by Eugene Wigner’s work, we can transform quantum dynamics into phase-space dynamics using quasi-probability distributions (QPDs), which encapsulate the complete behavior of the system. Solving the dynamics of a QPD enables the calculation of other observables, such as entanglement entropy.
+In contrast to the full density matrix, the corresponding quantum phase-space distribution of a continuous-variable system can be experimentally accessed. For example that of a quantum optical setup or a many-body ultracold atom system in a certain limit. 
 
-My research focuses on finding mappings to analytical partial differential equations in phase space for various continuous-variable, open bosonic many-body systems. I aim to capture these dynamics through a generative Neural Quantum States (NQS) ansatz, where neural networks serve as powerful function approximators. I aim to provide a scalable, accurate approach to simulate open quantum systems, pushing the boundaries of what can be calculated in quantum many-body dynamics.
+Upon measuring e.g. the Husimi-Q distribution of the system, one can compute physical quantities that are of quantum-informational relevance, such as entanglement entropies. Yet, usually one is faced with the challenge that experimental measurements are limited by factors like shot size, noise etc. 
+
+In my project, we aim to develop Neural Quantum States, that can efficiently reconstruct quasi-probability distributions of continuous-variable, quantum many-body systems, ultimately to be able to do quantum "distributional" tomography from sparse and noisy measurement data.
+
+
