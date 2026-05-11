@@ -15,6 +15,11 @@ design:
 title: Former members
 subtitle:
 ---
+ - Adrian Aasen ([PhD January 2026](https://archiv.ub.uni-heidelberg.de/volltextserver/38135/))
+ - Javad Vahedi
+ - Maike Reckermann (Master August 2025)
+ - Adrian Braemer ([PhD November 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/35657/)), now at [TNG](https://www.tngtech.com) in Karlsruhe
+ - Moritz Reh ([PhD April 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/34772/)), now at d-fine in Hamburg
  - Sebastian Schmidt (Intern April 2023 - September 2023)
  - András Czégel (Intern August 2022 - April 2023)
  - Etienne Stock (Bachelor March 2023)

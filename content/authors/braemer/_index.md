@@ -32,7 +32,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:adrian.braemer@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:adrian.braemer@physi.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
 - link: https://scholar.google.com/citations?user=Jufb1bUAAAAJ&hl=en
   icon_pack: ai
   icon: google-scholar
@@ -46,8 +46,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD
-- Researchers
+- Alumni
 - MBQD
 
 # Weights for ordering

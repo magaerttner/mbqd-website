@@ -11,7 +11,8 @@ headless = true  # This file represents a page section.
 active = true
 weight = 10  # Order that this section will appear.
 
-title = "Quantum information and many-body theory"
+#title = "Quantum information and many-body theory"
+title = "Quantum Information and Quantum Simulation"
 hero_media = ""
 
 
@@ -30,7 +31,8 @@ hero_media = ""
 
   # Background image.
   image = "welcome.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+#  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "left"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
 
@@ -41,15 +43,18 @@ hero_media = ""
 [design]
   columns = "1" # Choose how many columns the section has. Valid values: 1 or 2.
 
-[cta]
-  url = "publication"
-  label = "View publications"
-  icon_pack = "fas"
-  icon = "file"
+# [cta]
+#  url = "publication"
+#  label = "View publications"
+#  icon_pack = "fas"
+#  icon = "file"
 
-[cta_alt]
-  url = "people"
-  label = "Meet the team"
+# [cta_alt]
+#  url = "people"
+#  label = "Meet the team"
 +++
-
-We investigate the use of synthetic quantum systems for quantum technologies and for studying quantum many-body phenomena.
+<p>
+<br>
+<br>
+<br>
+</p>
