@@ -1,4 +1,3 @@
-
 ---
 title: Learning to detect optical nonclassicality
 date: 2026-03-06
