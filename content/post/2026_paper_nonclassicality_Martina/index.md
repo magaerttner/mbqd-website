@@ -6,7 +6,7 @@ authors:
 - gaerttner
 
 projects:
-- multimode-bosoic-systems
+- machine-learning-methods
 
 tags: ['nonclassicality', 'quantum optics', 'machine learning']
 
@@ -16,9 +16,6 @@ links:
     name: Publication
     url: https://arxiv.org/abs/2603.06319
 ---
-
-## Learning to detect optical nonclassicality
-
 
 Asking for the nonclassicality of a quantum state first seems like an obvious question, 
 as quantum mechanics is known to be inherently nonclassical. However, the notion of optical nonclassicality 
