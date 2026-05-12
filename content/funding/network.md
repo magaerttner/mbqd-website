@@ -83,7 +83,7 @@ subtitle:
   <div class="funding-row">
     <div class="funding-cell">
       <a href="https://digiq.eu">
-        <img src="/logos/digiq.png" alt="QPhoton logo">
+        <img src="/logos/digiq.png" alt="DigiQ logo">
       </a>
     </div>
     <div class="funding-cell">
