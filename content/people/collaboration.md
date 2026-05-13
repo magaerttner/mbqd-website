@@ -28,6 +28,7 @@ External Collaborators:
 - [Tilmann Pfau](https://www.pi5.uni-stuttgart.de/institute/team/Pfau/) and [Hans Peter Büchler (Stuttgart)](https://www.itp3.uni-stuttgart.de/institute/team/Buechler/) on quantum computing and simulation with Rydberg atoms.
 - [Patrick Emonts (Ulm)](https://www.uni-ulm.de/nawi/institute-for-complex-quantum-systems/ag-emonts/team/) on adiabatic and variational methods for ground-state search.
 - [Christof Weitenberg (Dortmund)](https://physik.tu-dortmund.de/forschung/forschungsschwerpunkt-atom-und-molekuelphysik/prof-dr-christof-weitenberg/) on machine-learning assisted readout methods for cold-atom quantum simulators.
+- [Sina Saravi (Paderborn)](https://www.hni.uni-paderborn.de/en/pqs) on the preparation of non-classical states in atom-cavity hybrid systems.
 
 Former collaborators: [Matthias Weidemüller](https://www.physi.uni-heidelberg.de/Forschung/QD/index.php?show=projects&project=rydberg), [Markus Oberthaler](https://www.kip.uni-heidelberg.de/personen/552), [Alexey Ustinov](https://www.phi.kit.edu/ustinov.php), [Christoph Schnörr](https://hci.iwr.uni-heidelberg.de/ipa/prof-christoph-schn%C3%B6rr), and many more ... 
 
