@@ -98,7 +98,7 @@ subtitle:
       </a>
     </div>
     <div class="funding-cell">
-      <span>We are funded by the German Ministry of Science, Technology, and Space within the collaboration project <b>BerRyQC</b> between the Universities of Stuttgart, Siegen, Hamburg, and Jena, which aims to develop new benchmarking tools for Rydberg quantum computers. Our goal is to devise entanglement-based benchmarks and to study their behavior under the optimization of quantum algorithms with respect to specific hardware capabilities.</span>
+      <span>We are funded by the German Ministry of Science, Technology, and Space within the collaboration project <b>BeRyQC</b> between the Universities of Stuttgart, Siegen, Hamburg, and Jena, which aims to develop new benchmarking tools for Rydberg quantum computers. Our goal is to devise entanglement-based benchmarks and to study their behavior under the optimization of quantum algorithms with respect to specific hardware capabilities.</span>
     </div>
   </div>
 
