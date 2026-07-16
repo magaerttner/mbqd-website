@@ -9,7 +9,7 @@ authors:
 date: 2026-06-25
 doi: 10.48550/arXiv.2606.27158
 projects:
-publication: 'ArXiv 26.06.27158'
+publication: 'ArXiv 2606.27158'
 publication_types:
   - 2
 title: 'Loss-aware pulse sequence optimization for generating photonic Fock states'
