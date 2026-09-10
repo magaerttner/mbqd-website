@@ -1,5 +1,5 @@
 ---
-title: Quantum simulation
+title: Quantum read-out
 summary: 
 
 # Short title used in page links (if not set, defaults to title)
@@ -9,7 +9,7 @@ authors:
 - gaerttner
 
 # Determines ordering of projects
-weight: 8
+weight: 7
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,5 +42,6 @@ slides: ""
 
 math: true
 ---
+
 
 
