@@ -7,13 +7,13 @@ title_short:
 
 authors:
 - gaerttner
-- jung
-- braeu
 - euler
 - dachille
-- menhofer
-- gorgun
+- jung
+- goerguen
+- braeu
 - naumann
+- menhofer
 
 # Determines ordering of projects
 weight: 7

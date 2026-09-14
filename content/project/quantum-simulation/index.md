@@ -7,12 +7,12 @@ title_short:
 
 authors:
 - gaerttner
-- guschakowski
-- davani
-- strahlendorf
-- dachille
 - bhattacharyya
+- dachille
+- davani
 - erpelding
+- strahlendorf
+- guschakowski
 
 # Determines ordering of projects
 weight: 8
