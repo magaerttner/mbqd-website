@@ -7,10 +7,10 @@ title_short:
 
 authors:
 - gaerttner
-- jung
 - euler
-- gorgun
+- jung
 - erpelding
+- goerguen
 
 # Determines ordering of projects
 weight: 6
