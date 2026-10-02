@@ -9,11 +9,11 @@ authors:
   - 'Gerhard Zürn'
   - 'Matthias Weidemüller'
   - gaerttner
-date: 2025-12-22
-doi: 10.48550/arXiv.2512.19856
+date: 2026-09-23
+doi: 10.1103/v1lm-c87p
 projects:
 
-publication: 'ArXiv 2512.19856'
+publication: 'Phys. Rev. B **114**, 154206'
 publication_types:
   - 2
 title: 'Quantum information scrambling in strongly disordered Rydberg spin systems'
