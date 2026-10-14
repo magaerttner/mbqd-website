@@ -15,17 +15,19 @@ design:
 title: Former members
 subtitle:
 ---
- - Adrian Aasen ([PhD January 2026](https://archiv.ub.uni-heidelberg.de/volltextserver/38135/)), now a researcher at [QPerfect](https://www.qperfect.io/) in Strasbourg
- - Javad Vahedi
+ - [Dr. Elena Callus](https://nordita.org/about/people/nordita-person/elena-callus), now at the [Nordic Institute for Theoretical Physics](https://nordita.org/about/people/nordita-person/elena-callus)
+ - Martha Schubert (Bachelor August 2026)
+ - Dr. Adrian Aasen ([PhD January 2026](https://archiv.ub.uni-heidelberg.de/volltextserver/38135/)), now a researcher at [QPerfect](https://www.qperfect.io/) in Strasbourg
+ - Dr. Javad Vahedi
  - Maike Reckermann (Master August 2025)
- - Adrian Braemer ([PhD November 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/35657/)), now at [TNG](https://www.tngtech.com) in Karlsruhe
- - Moritz Reh ([PhD April 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/34772/)), now at d-fine in Hamburg
+ - Dr. Adrian Braemer ([PhD November 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/35657/)), now at [TNG](https://www.tngtech.com) in Karlsruhe
+ - Dr. Moritz Reh ([PhD April 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/34772/)), now at d-fine in Hamburg
  - Sebastian Schmidt (Intern April 2023 - September 2023)
  - András Czégel (Intern August 2022 - April 2023)
  - Etienne Stock (Bachelor March 2023)
  - Luca Benn (Bachelor March 2023)
  - Mohammed Sinan (Master February 2023), now in Barcelona
- - Maximilian Müllenbach (Master January 2023, co-supervision with M. Weidemüller), now PhD in Strasbourg in the group of Shannon Whitlock
+ - Maximilian Müllenbach (Master January 2023, co-supervision with M. Weidemüller), now PhD student in Strasbourg in the group of Shannon Whitlock
  - Maximilian Rieger (Bachelor September 2022), now master student in Heidelberg
  - Johannes Noll (Bachelor September 2022), now master student in Heidelberg
  - Oliver Stockdale, PhD student until May 2022
@@ -37,8 +39,8 @@ subtitle:
  - Peter Kaposvari (Master January 2021)
  - Bjarne Bergh (Master October 2020), now at Cambridge University
  - Leander Haase (Bachelor September 2020), now master student in Heidelberg
- - Linda Shen (PhD 2020, co-supervision with J. Berges), now at RWE
- - Stefanie Czischek (PhD 2019, co-supervision with T. Gasenzer), now at University of Waterloo
+ - Dr. Linda Shen (PhD 2020, co-supervision with J. Berges), now at RWE
+ - Dr. Stefanie Czischek (PhD 2019, co-supervision with T. Gasenzer), now at University of Waterloo
  - Marcel Neugebauer (Master March 2020, co-supervision with M. Weidemüller), now at SAP
  - Jan Philipp Klinger (Bachelor July 2019), now master student in Heidelberg
  - Michael Straub (Bachelor March 2019), now master student in Heidelberg
