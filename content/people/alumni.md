@@ -15,7 +15,7 @@ design:
 title: Former members
 subtitle:
 ---
- - [Dr. Elena Callus](https://nordita.org/about/people/nordita-person/elena-callus), now at the [Nordic Institute for Theoretical Physics](https://nordita.org/about/people/nordita-person/elena-callus)
+ - [Dr. Elena Callus](https://elenacallus.github.io/), now at the [Nordic Institute for Theoretical Physics](https://nordita.org/about/people/nordita-person/elena-callus)
  - Martha Schubert (Bachelor August 2026)
  - Dr. Adrian Aasen ([PhD January 2026](https://archiv.ub.uni-heidelberg.de/volltextserver/38135/)), now a researcher at [QPerfect](https://www.qperfect.io/) in Strasbourg
  - Dr. Javad Vahedi
