@@ -13,7 +13,7 @@ authors:
 - goerguen
 
 # Determines ordering of projects
-weight: 6
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -47,8 +47,8 @@ slides: ""
 math: true
 ---
 
-While solving quantum many-body problems is generally hard for classical computers, one can still get quite far by using suitable approximate simulation methods. For example, for weakly interacting systems, mean-field or perturbative methods can work decently, taking into account interactions only in an approximate manner. Numerical methods for quantum many-body systems which work well in certain regimes and have controlled errors are also important to certify the correct functioning of quantum simulators.
+Quantum many-body problems are generically hard for classical computers as the Hilbert space grows exponentially with system size, making brute-force simulation quickly intractable. Yet, clever approximate methods can be surprisingly powerful. For weakly interacting systems, mean-field and perturbative approaches capture the essential physics; more broadly, methods with controlled errors are also invaluable for benchmarking quantum simulators.
 
-Our goal is to advance such methods with a focus on semiclassical and variational simulation methods. Semiclassical methods exploit that quantum fluctuations can be treated in a perturbative fashion in certain cases. While quantum particles come with an intrinsic uncertainty about their position, the most likely trajectory they will take is still the one predicted by classical physics. In the semi-classical regime, quantum fluctuations around it become small. We exploit this to efficiently simulate spin systems using the so-called discrete truncated Wigner approximation. Variational approaches build on the insight that the physical time evolution of a quantum systems stays confined to a relatively small part of the entire state space. We seek to find parameterizations of the relevant set of states using neural networks to find ground states or to simulate the dynamics of open quantum systems.
+Our focus is on variational simulation methods, built on a simple but powerful observation: Physically relevant quantum states occupy only a tiny corner of the full Hilbert space. So, rather than navigating the whole space, we represent the quantum state within a much lower-dimensional subspace, as illustrated in the figure. The central challenge is designing ansatzes that encode the right physical prior knowledge about the relevant class of states. We use neural networks for this purpose: their expressiveness makes them natural candidates for capturing complex quantum correlations, and we apply them to find ground states and simulate the dynamics of open quantum systems.
 
 
