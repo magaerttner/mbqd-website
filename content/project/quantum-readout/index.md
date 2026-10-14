@@ -16,7 +16,7 @@ authors:
 - menhofer
 
 # Determines ordering of projects
-weight: 7
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -50,8 +50,8 @@ slides: ""
 math: true
 ---
 
-The efficient characterization of quantum states and processes through measurements is central to quantum technologies; be it to certify relevant resources like entanglement, or to extract relevant observables in quantum simulation experiments. A challenge arises due to the fundamental difference of quantum measurements and measurements on classical objects. Fully characterizing a quantum system requires preparing multiple copies of the same state and measuring these with different measurement settings. When applied to composite quantum systems this procedure becomes infeasible beyond a handful of particles due to the large number of required experimental runs.
+The efficient characterization of quantum states and processes through measurements is central to quantum technologies; be it to certify relevant resources like entanglement, or to extract relevant observables in quantum simulation experiments. A challenge arises due to the fundamental difference of quantum measurements and measurements on classical objects. Fully characterizing a quantum system requires preparing multiple copies of the same state and measuring these in different measurement settings, as illustrated in the figure above. When applied to composite quantum systems, this procedure becomes infeasible beyond a handful of particles, due to the large number of required experimental runs.
 
-We develop strategies to overcome this obstacle, for example, by exploiting prior knowledge about the quantum system at hand. Among all possible quantum states, most are very unlikely to occur in a given experimental situation. We seek to exploit this by building models that parameterize only the set of relevant states, so that the parameters of these models can then be inferred efficiently from measurements. For this, we often build on machine-learning techniques which are suitable to recognize and exploit the relevant physical structures.
+We develop strategies to overcome this obstacle, for example, by exploiting prior knowledge about the quantum system at hand. Among all possible quantum states most are very unlikely to occur in a given experimental situation. We seek to exploit this by building models that parameterize only the set of relevant states, so that the parameters of these models can then be inferred efficiently from measurements. For this, we often build on machine learning techniques which are suitable to recognize and exploit the relevant physical structures.
 
 
