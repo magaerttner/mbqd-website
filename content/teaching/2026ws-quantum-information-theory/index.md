@@ -40,13 +40,13 @@ projects: []
 
 This lecture will introduce important concepts of quantum information theory with a focus on entanglement theory.
 
-Preliminary list of topic:
+Preliminary list of topics:
 
-- Recap of QM formalism: States and operators, Density operator, composite systems, Schmidt decomposition, quantum measurement
+- Recap of QM formalism: states and operators, density operator, composite systems, Schmidt decomposition, quantum measurement
 - Quantum operations: environments, Kauss channels, CPTP maps, Choi–Jamiolkowski isomorphism
-- Distance measures: Classical and quantum distance measures, Trace distance, Bures distance etc.
-- Entropy and information: Shannon and Von Neumann entropy, Conditional quantum entropy & coherent information, Quantum mutual information, Quantum source coding, Accessible information & the Holevo bound
-- Entanglement theory: Mixed state entanglement, LOCC & SEP, Majorization & Nielsen’s theorem, Entanglement distillation & entanglement cost, entanglement measure, entanglement witnesses
+- Distance measures: classical and quantum distance measures, trace distance, Bures distance, etc.
+- Entropy and information: Shannon and von Neumann entropy, conditional quantum entropy and coherent information, quantum mutual information, quantum source coding, accessible information and the Holevo bound
+- Entanglement theory: mixed-state entanglement, LOCC and SEP, majorization and Nielsen's theorem, entanglement distillation and entanglement cost, entanglement measure, entanglement witnesses
 
 
 
