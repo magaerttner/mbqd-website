@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -23,10 +23,8 @@ organizations:
 # List each interest with a dash
 interests:
 - Quantum Simulation
-- Quantum Mechanics in Phase Space
-- Multimode Bosonic Systems
+- Gaussian Boson Sampling
 - Quantum Information
-- Quantum Measurements
 - Quantum Field Theory
 
 # Organizational groups that you belong to (for People widget)
@@ -61,11 +59,10 @@ social:
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 307
+weight: 241
 ---
 Two hundred years BCE, the ancient Greeks were able to estimate astronomical positions and eclipses with the Antikythera mechanism, a device that mechanically captured aspects of the logic of planetary orbits - an early concept of an analog computer.
 
 Today, we can extend this idea into the quantum realm.
 
-Quantum simulation on continuous-variable platforms enables the realization of quantum computation in an analog fashion. Much like the Antikythera mechanism, a well-controlled laboratory quantum system can be engineered to emulate a more complex target system, offering the potential to achieve computational quantum advantage. However, experimental implementations are often limited by incomplete knowledge of the quantum state and by strong noise. In my thesis, I aim to address these challenges by developing methods to correct the outputs of Gaussian boson samplers, with the goal of improving their reliability as tools for quantum simulation.
-
+Continuous-variable quantum platforms offer a promising route toward analog quantum simulation. Much like the Antikythera mechanism, a carefully engineered laboratory system can emulate the dynamics of a more complex target system. In particular, Gaussian boson samplers are promising candidates for demonstrating near-term computational quantum advantage. However, experimental imperfections and incomplete knowledge of the underlying quantum states can compromise this advantage, distort the simulated dynamics, and raise questions about whether the resulting evolution remains consistent with a physically admissible model of the target system. Characterizing, modeling, and quantifying these effects is therefore essential for establishing the regimes in which quantum simulations remain physically meaningful and quantum advantage can be reliably demonstrated. Since classical simulation becomes computationally intractable precisely in these regimes, I am also interested in developing efficiently computable witnesses that can assess the physical consistency and reliability of quantum simulators without requiring their full classical simulation.
