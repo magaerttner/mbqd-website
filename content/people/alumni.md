@@ -15,9 +15,12 @@ design:
 title: Former members
 subtitle:
 ---
+ - Rico Krahn (Bachelor October 2026)
+ - Robin Strahlendorf (Master October 2026)
  - [Dr. Elena Callus](https://elenacallus.github.io/), now at the [Nordic Institute for Theoretical Physics](https://nordita.org/about/people/nordita-person/elena-callus)
  - Martha Schubert (Bachelor August 2026)
  - Dr. Adrian Aasen ([PhD January 2026](https://archiv.ub.uni-heidelberg.de/volltextserver/38135/)), now a researcher at [QPerfect](https://www.qperfect.io/) in Strasbourg
+ - Benjamin Stodd (Master December 2025)
  - Dr. Javad Vahedi
  - Maike Reckermann (Master August 2025)
  - Dr. Adrian Braemer ([PhD November 2024](https://archiv.ub.uni-heidelberg.de/volltextserver/35657/)), now at [TNG](https://www.tngtech.com) in Karlsruhe
