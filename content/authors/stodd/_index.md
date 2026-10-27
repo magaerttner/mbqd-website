@@ -29,8 +29,8 @@ interests:
 # Organizational groups that you belong to (for People widget)
 # Uncomment the two lines below
 user_groups:
-- Researchers
-## - Alumni # change Researchers to Alumni if the person left the group
+#- Researchers
+ - Alumni # change Researchers to Alumni if the person left the group
 
 social:
 - icon: envelope
